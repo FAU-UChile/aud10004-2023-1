@@ -5,7 +5,7 @@
 - universidad: Universidad de Chile
 - facultad: Facultad de Arquitectura y Urbanismo
 - departamento: Departamento de Diseño
-- curso: AUD10004 Matemáticas aplicada al diseño
+- curso: AUD10004 Matemáticas aplicadas al diseño
 - sección: 02
 - créditos: 03
 - semestre: primer semestre 2023

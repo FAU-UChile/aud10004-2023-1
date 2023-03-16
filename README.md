@@ -71,7 +71,7 @@ la nota final de la clase será el promedio simple de estas evaluaciones:
 
 | clase                   | fechas        | tema                                   |
 | :---------------------- | :------------ | :------------------------------------- |
-| [01](clases/clase-01/)  | 2023-03-16/17 | unidad 0: intro a números              |
+| [01](clases/clase-01/)  | 2023-03-16/17 | unidad 0: números y ángulos            |
 | [02](clases/clase-02/)  | 2023-03-23/24 | unidad 1: triángulos y circunferencias |
 | [03](clases/clase-03/)  | 2023-03-30/31 | unidad 2: planos y rectas              |
 | [04](clases/clase-04/)  | 2023-04-06/07 | unidad 2: planos y rectas              |

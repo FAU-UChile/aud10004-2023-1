@@ -15,9 +15,9 @@
 
 ## repositorio
 
-- [ayudantias](./ayudantias/): una subcarpeta por cada ayudantía.
-- [clases](./clases/): una subcarpeta por cada clase.
-- [trabajos](./trabajos/): enunciados de trabajos.
+- [ayudantias](./ayudantias/): una subcarpeta por cada ayudantía
+- [clases](./clases/): una subcarpeta por cada clase
+- [trabajos](./trabajos/): enunciados de trabajos
 
 ## unidades
 
@@ -55,8 +55,8 @@
 
 la nota final de la clase será el promedio simple de estas evaluaciones:
 
-- asistencia: inasistencias justificados por sistema u-cursos cuentan como media asistencia. la nota máxima se logra con al menos un 90% de asistencia.
-- trabajo de investigación: proyecto individual, realizado durante la semana de trabajo autónomo.
+- asistencia: inasistencias justificados por sistema u-cursos cuentan como media asistencia. la nota máxima se logra con al menos un 90% de asistencia
+- trabajo de investigación: proyecto individual, realizado durante la semana de trabajo autónomo
 - controles:
   - 3 controles hechos en horario de ayudantía, uno en torno al final de cada mes marzo, abril, mayo y junio
   - cada control tiene 3 ejercicios, el peor se borra

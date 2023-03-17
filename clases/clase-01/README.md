@@ -122,4 +122,11 @@ este sistema es comúnmente usado en diseño para representar colores RGB en sis
 
 los ángulos nos permiten describir rotaciones, inclinaciones y movimientos circulares.
 
-comúnmente se usan letras griegas para denotar ángulos, como alpha, beta, gamma ($$\alpha, \beta, \gamma$$)
+comúnmente se usan letras griegas para denotar ángulos, como alpha, beta, gamma:
+
+$$\alpha, \beta, \gamma$$
+
+en geometría en este curso usaremos dos maneras de medir ángulos:
+
+- en grados, donde una circurferencia completa equivale a 360 grados.
+- en radianes, donde una circunferencia completa equivale a $$2 \cdot \pi$$ radianes.

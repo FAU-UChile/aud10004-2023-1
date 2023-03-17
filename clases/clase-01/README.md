@@ -60,6 +60,12 @@ los números reales son los que tienen valores decimales, tanto los que se puede
 
 ## infinitos
 
+los números naturales son infinitos.
+
+los números enteros también son infinitos, y nuestra primera impresión podría ser que son aún más infinitos que los naturales, pero pdemos asignar un número natural a cada número entero, y con eso, podemos contarlos y equipararlos, son igual de infinitos!
+
+si analizamos los números reales, por ejemplo entre dos números enteros consecutivos 0 y 1, existen infinitos números reales entre 0 y 1, y eso es para cada par consecutivo de números enteros! por lo tanto no podemos asignar un número entero a cada número real, entre dos números reales siempre podemos encontrar infinitos números reales. con esto el infinito de los números reales es más infinito que el infinito de los enteros.
+
 viernes 17 marzo 2023, presencial
 
 ## sistemas numéricos
@@ -71,6 +77,14 @@ los números romanos no tienen ni cero ni decimales. tienen distintos símbolos 
 - III = tres
 - IV = cuatro
 - V = cinco
+- VI = seis
+- ...
+- XII = doce
+- ...
+- XXVI = veintiseis
+- ...
+- LII = cincuenta y dos
+- ...
 
 hay solamente una manera de escribir cada número, siguiendo reglas específicas para escribir cada cifra.
 
@@ -83,3 +97,33 @@ $$5 \cdot 10^{3} + 7 \cdot 10^{2} + 8 \cdot 10^{2} + 1 \cdot 10^{1} + 2 \cdot 10
 entonces empezamos contando desde 0, aumentamos de 1 en 1, cuando llegamos al 9 no quedan símbolos, y se rebasa, y el siguiente número es 10, luego 11, luego 12, etc.
 
 las unidades se rebasan y hacen aumentar las decenas, las decenas se rebasan y hacen aumentar las centenas, y así.
+
+en un computador, usamos un sistema binario, donde hay dos símbolos 0 y 1, para representar las metáforas encendido/apagado, sí/no, presencia/ausencia.
+
+si contamos de 0 a 8 en binario es:
+
+- 0000 = cero
+- 0001 = uno
+- 0010 = dos
+- 0011 = tres
+- 0100 = cuatro
+- 0101 = cinco
+- 0110 = seis
+- 0111 = siete
+- 1000 = ocho
+
+otro sistema que se usa en computación es el sistema hexadecimal, que tiene 16 símbolos:
+
+- 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F
+
+este sistema es comúnmente usado en diseño para representar colores RGB en sistemas computacionales, por ejemplo: FF, A8, 7C.
+
+## ángulos
+
+los ángulos nos permiten describir rotaciones, inclinaciones y movimientos circulares.
+
+comúnmente se usan letras griegas para denotar ángulos, como alpha, beta, gamma:
+
+- $$\alpha$$
+- $$\beta$$
+- $$\gamma$$

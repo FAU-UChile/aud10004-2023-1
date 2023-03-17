@@ -122,4 +122,4 @@ este sistema es comúnmente usado en diseño para representar colores RGB en sis
 
 los ángulos nos permiten describir rotaciones, inclinaciones y movimientos circulares.
 
-comúnmente se usan letras griegas para denotar ángulos, como alpha $$\alpha$$, beta $$\beta$$, gamma $$\gamma$$.
+comúnmente se usan letras griegas para denotar ángulos, como alpha, beta, gamma ($$\alpha, \beta, \gamma$$)

@@ -22,9 +22,9 @@
 ## unidades
 
 - unidad 0: números y ángulos
-  - números enteros, reales, imaginarios, infinitos
-  - grados, radianes, gradianes
+  - números naturales, enteros, reales, infinitos
   - sistema decimal, binario y hexadecimal
+  - grados y radianes
 - unidad 1: triángulos y circunferencias
   - triángulos rectángulos
   - teoremas del seno y coseno

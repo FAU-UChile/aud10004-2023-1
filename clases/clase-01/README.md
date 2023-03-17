@@ -127,4 +127,36 @@ comúnmente se usan letras griegas para denotar ángulos, como alpha, beta, gamm
 en geometría en este curso usaremos dos maneras de medir ángulos:
 
 - en grados, donde una circurferencia completa equivale a 360 grados y un ángulo recto a 90 grados.
-- en radianes, donde una circunferencia completa equivale a $2 \cdot \pi$ radianes y un ángulo recto a $\frac{/pi}{2}$ radianes.
+- en radianes, donde una circunferencia completa equivale a $2 \cdot \pi$ radianes y un ángulo recto a $\frac{\pi}{2}$ radianes.
+
+para hacer conversiones entre ángulos, podemos usar la siguiente igualdad:
+
+$$\frac{2 \cdot \pi \cdot radianes}{360 \cdot grados} = \frac{X \cdot radianes}{Y \cdot grados}$$
+
+basta con tener X en radianes o Y en grados, para lograr despejar el otro valor.
+
+por ejemplo, si queremos saber el equivalente en radianes de 45 grados, escribimos:
+
+$$\frac{2 \cdot \pi \cdot radianes}{360 \cdot grados} = \frac{X \cdot radianes}{45 \cdot grados}$$
+
+podemos dividir por radianes a ambos lados de la ecuación:
+
+$$\frac{2 \cdot \pi}{360 \cdot grados} = \frac{X}{45 \cdot grados}$$
+
+podemos multiplicar por grados a ambos lados de la ecuación:
+
+$$\frac{2 \cdot \pi}{360} = \frac{X}{45}$$
+
+podemos multiplicar por 45 a ambos lados:
+
+$$\frac{2 \cdot 45 \cdot \pi}{360} = X$$
+
+y ahora podemos expresar X así:
+
+$$X = \frac{2 \cdot 45 \cdot \pi}{360}$$
+
+y simplificar:
+
+$$X = \frac{90 \cdot \pi}{360} = \frac{\pi}{4}$$
+
+y así sabemos que 45 grados es equivalente a $\frac{\pi}{4}$ radianes.

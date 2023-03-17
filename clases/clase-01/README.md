@@ -126,5 +126,5 @@ comúnmente se usan letras griegas para denotar ángulos, como alpha, beta, gamm
 
 en geometría en este curso usaremos dos maneras de medir ángulos:
 
-- en grados, donde una circurferencia completa equivale a 360 grados.
-- en radianes, donde una circunferencia completa equivale a $2 \cdot \pi$ radianes.
+- en grados, donde una circurferencia completa equivale a 360 grados y un ángulo recto a 90 grados.
+- en radianes, donde una circunferencia completa equivale a $2 \cdot \pi$ radianes y un ángulo recto a $\frac{/pi}{2}$ radianes.

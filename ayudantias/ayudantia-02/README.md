@@ -24,26 +24,26 @@ martes 21 marzo 2023
 
 a) Representa los siguientes números decimales como una suma de potencias de 10:
 
-$ 2023_{(base10)} $
-$ 17.456_{(base10)} $
-$ 1003003_{(base10)} $
+$2023_{(base10)}$
+$17.456_{(base10)}$
+$1003003_{(base10)}$
 
 
-    <details>
-    <summary>Solución</summary>
+<details>
+<summary>Solución</summary>
 
-    Los números que utilizamos día a día está formado por un código de diez símbolos (del 0 al 9). A esto se le llama un código numérico de base 10.
+Los números que utilizamos día a día está formado por un código de diez símbolos (del 0 al 9). A esto se le llama un código numérico de base 10.
 
-    Para realizar la suma de potencias de 10 nos debemos fijar en el orden de los números de derecha a izquierda.
+Para realizar la suma de potencias de 10 nos debemos fijar en el orden de los números de derecha a izquierda.
 
 
-    $ 2023_{(base10)} \Rightarrow 2*10^3 + 2*10^1 + 3*10^0  $
+$2023_{(base10)} \Rightarrow 2*10^3 + 2*10^1 + 3*10^0$
 
-    $ 17.456_{(base10)}  \Rightarrow  1*10^1 + 7*10^0 + 4*10^{-1} + 5*10^{-2} + 6*10^{-2} $
+$17.456_{(base10)}  \Rightarrow  1*10^1 + 7*10^0 + 4*10^{-1} + 5*10^{-2} + 6*10^{-2}$
 
-    $ 1003003_{(base10)} \Rightarrow 1*10^6 + 3*10^3 + 3*10^0 $ 
-            
-    </details>
+$1003003_{(base10)} \Rightarrow 1*10^6 + 3*10^3 + 3*10^0$
+        
+</details>
     
 
 b) Represente los siguientes números binarios como un números decimales.

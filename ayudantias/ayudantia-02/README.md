@@ -28,7 +28,7 @@ a) Representa los siguientes números decimales como una suma de potencias de 10
 - $17.456_{(base10)}$
 - $1003003_{(base10)}$
 
-$2023_{(base10)} \Rightarrow 2*10^3 + 2*10^1 + 3*10^0$
+$2023_{(base10)} \Rightarrow 2 \cdot 10^3 + 2 \cdot 10^1 + 3 \cdot 10^0$
 
 <details>
 <summary>Solución</summary>
@@ -37,11 +37,11 @@ Los números que utilizamos día a día está formado por un código de diez sí
 
 Para realizar la suma de potencias de 10 nos debemos fijar en el orden de los números de derecha a izquierda.
 
-$2023_{(base10)} \Rightarrow 2*10^3 + 2*10^1 + 3*10^0$
+$2023_{(base10)} \Rightarrow 2 \cdot 10^3 + 2 \cdot 10^1 + 3 \cdot 10^0$
 
-$17.456_{(base10)}  \Rightarrow  1*10^1 + 7*10^0 + 4*10^{-1} + 5*10^{-2} + 6*10^{-2}$
+$17.456_{(base10)}  \Rightarrow  1 \cdot 10^1 + 7 \cdot 10^0 + 4 \cdot 10^{-1} + 5 \cdot 10^{-2} + 6 \cdot 10^{-2}$
 
-$1003003_{(base10)} \Rightarrow 1*10^6 + 3*10^3 + 3*10^0$
+$1003003_{(base10)} \Rightarrow 1 \cdot 10^6 + 3 \cdot 10^3 + 3 \cdot 10^0$
         
 </details>
     
@@ -63,7 +63,7 @@ b) Represente los siguientes números binarios como un números decimales.
 
     $$
     \begin{align*}
-    11_{(base2)} \Rightarrow 1*2^1 + 1*2^0 \\ = 2 + 1 \\ = 3_{(base10)}
+    11_{(base2)} \Rightarrow 1 \cdot 2^1 + 1 \cdot 2^0 \\ = 2 + 1 \\ = 3_{(base10)}
     \end{align*}
     $$
 
@@ -73,7 +73,7 @@ b) Represente los siguientes números binarios como un números decimales.
 
     $$
     \begin{align*}
-    1101_{(base2)} \Rightarrow 1*2^3 + 1*2^2 + 0*2^1 + 1*2^0 \\ = 8 + 4 + 0 + 1 \\ = 13_{(base10)}
+    1101_{(base2)} \Rightarrow 1 \cdot 2^3 + 1 \cdot 2^2 + 0 \cdot 2^1 + 1 \cdot 2^0 \\ = 8 + 4 + 0 + 1 \\ = 13_{(base10)}
     \end{align*}
     $$
 
@@ -83,7 +83,7 @@ b) Represente los siguientes números binarios como un números decimales.
 
     $$
     \begin{align*}
-    100011{(base2)} \Rightarrow 1*2^5 + 1*2^1 + 1*2^0 \\ = 32 + 2 + 1 \\ = 35_{(base10)}
+    100011{(base2)} \Rightarrow 1 \cdot 2^5 + 1 \cdot 2^1 + 1 \cdot 2^0 \\ = 32 + 2 + 1 \\ = 35_{(base10)}
     \end{align*}
     $$
 

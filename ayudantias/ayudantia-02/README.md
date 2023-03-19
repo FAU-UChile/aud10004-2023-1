@@ -48,9 +48,9 @@ $1003003_{(base10)} \Rightarrow 1 \cdot 10^6 + 3 \cdot 10^3 + 3 \cdot 10^0$
 
 b) Represente los siguientes números binarios como un números decimales.
 
-- $ 11_{(base2)} $
-- $ 1101_{(base2)} $
-- $ 100011_{(base2)} $
+- $11_{(base2)}$
+- $1101_{(base2)}$
+- $100011_{(base2)}$
 
     <details>
         <summary>Solución</summary>

@@ -28,6 +28,7 @@ a) Representa los siguientes números decimales como una suma de potencias de 10
 - $17.456_{(base10)}$
 - $1003003_{(base10)}$
 
+$2023_{(base10)} \Rightarrow 2*10^3 + 2*10^1 + 3*10^0$
 
 <details>
 <summary>Solución</summary>
@@ -35,7 +36,6 @@ a) Representa los siguientes números decimales como una suma de potencias de 10
 Los números que utilizamos día a día está formado por un código de diez símbolos (del 0 al 9). A esto se le llama un código numérico de base 10.
 
 Para realizar la suma de potencias de 10 nos debemos fijar en el orden de los números de derecha a izquierda.
-
 
 $2023_{(base10)} \Rightarrow 2*10^3 + 2*10^1 + 3*10^0$
 

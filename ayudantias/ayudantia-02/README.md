@@ -61,13 +61,11 @@ Para convertir cualquier número binario a un número decimal, debemos represent
 
 Para el caso del número binario 11, la suma de potencias de dos quedaría:
 
-$$
-\begin{align*}
+$$\begin{align*}
 11_{(base2)} \Rightarrow 1 \cdot 2^1 + 1 \cdot 2^0 \\ = 2 + 1 \\ = 3_{(base10)}
-\end{align*}
-$$
+\end{align*}$$
 
-$$ \therefore \ 11_{(base2)} \Rightarrow 3_{(base10)} $$
+$$\therefore \ 11_{(base2)} \Rightarrow 3_{(base10)}$$
 
 Para el caso del número binario 1101:
 

@@ -108,10 +108,10 @@ $$\therefore \ 3_{(base10)} \Rightarrow 11_{(base2)}$$
 
 Para convertir $13_{(base10)}$ hacemos lo siguiente:
 
-1. Dividimos $\frac{13}{2} = 6$ con residuo $1$
-2. Dividimos $\frac{6}{2} = 3$ con residuo $0$
-3. Dividimos $\frac{3}{2} = 1$ con residuo $1$
-4. Dividimos $\frac{1}{2} = 0$ con residuo $1$
+1. Dividimos $13 \div 2 = 6$ con residuo $1$
+2. Dividimos $6 \div 2 = 3$ con residuo $0$
+3. Dividimos $3 \div 2 = 1$ con residuo $1$
+4. Dividimos $1 \div 2 = 0$ con residuo $1$
 
 Recopilando los residuos obtenemos:
 
@@ -119,12 +119,12 @@ $$\therefore \ 13_{(base10)} \Rightarrow 1101_{(base2)}$$
 
 Para convertir $35_{(base10)}$ hacemos lo mismo:
 
-1. Dividimos $\frac{35}{2} = 17$ con residuo $1$
-2. Dividimos $\frac{17}{2} = 8$ con residuo $1$
-3. Dividimos $\frac{8}{2} = 4$ con residuo $0$
-4. Dividimos $\frac{4}{2} = 2$ con residuo $0$
-5. Dividimos $\frac{2}{2} = 1$ con residuo $0$
-6. Dividimos $\frac{1}{2} = 0$ con residuo $1$
+1. Dividimos $35 \div 2 = 17$ con residuo $1$
+2. Dividimos $17 \div 2 = 8$ con residuo $1$
+3. Dividimos $8 \div 2 = 4$ con residuo $0$
+4. Dividimos $4 \div 2 = 2$ con residuo $0$
+5. Dividimos $2 \div 2 = 1$ con residuo $0$
+6. Dividimos $1 \div 2 = 0$ con residuo $1$
 
 Recopilando los residuos obtenemos:
 
@@ -134,13 +134,13 @@ $$\therefore \ 35_{(base10)} \Rightarrow 100011_{(base2)}$$
 
 ## ejercicio-03: colores RGB como números hexadecimales
 
-- ¿qué color representa el código #FC7D26? ¿qué intensidad de rojo posee este color? escriba su respuesta como un número en base 10.
+- ¿qué color representa el código #FC7D26? ¿qué intensidad de rojo, verde y azul posee este color? escriba su respuesta usando números en base 10.
 
 
 <details>
     <summary>solución</summary>
 
-usualmente en los sistemas digitales como nuestros computadores o celulares se utilizan números en base hexadecimal para representar los colores del espectro visible, con números que van del 0 a 256.
+usualmente en los sistemas digitales como nuestros computadores o celulares se utilizan números en base hexadecimal para representar los colores del espectro visible, con números que van del 0 a 255.
 
 el código hexadecimal posee 16 símbolos:
 
@@ -153,6 +153,8 @@ Los códigos de colores poseen 6 cifras hexadecimales. ej: #AA00FF
 Las dos cifras más a la izquierda representan la intensidad del color rojo (AA), las próximas dos cifras la intensidad del color verde (00), y las últimas dos cifras la intensidad del color azul (FF).
 
 - EL color #FC7D26 tiene FC en rojo, 7D en verde y 26 en azul.
+
+    ### Intensidad de rojo
 
     Para convertir la cifra FC a decimal hacemos la multiplicación por potencias de 16:
 
@@ -170,6 +172,8 @@ Las dos cifras más a la izquierda representan la intensidad del color rojo (AA)
 
     Por lo tanto este color tiene una intensidad 252 de rojo.
 
+    ### Intensidad de verde
+
     Para convertir la cifra 7D a decimal hacemos la multiplicación por potencias de 16:
 
     $$7D_{(base16)} \Rightarrow 7 \cdot 16^1 + D \cdot 16^0$$
@@ -183,6 +187,8 @@ Las dos cifras más a la izquierda representan la intensidad del color rojo (AA)
     $$ = 112 + 13 = 125$$
 
     $$\therefore \ 7D_{(base16)} \Rightarrow 125_{(base10)}$$
+
+    ### Intensidad de azul
 
     Por lo tanto este color tiene una intensidad 125 de verde.
 
@@ -200,7 +206,9 @@ Las dos cifras más a la izquierda representan la intensidad del color rojo (AA)
 
     Finalmente tenemos que este color está formado por la siguiente combinación de colores RGB:
 
-    $$\therefore \ #FC7D26 \Rightarrow (252_{(base10)), 125_{(base10)), 38_{(base10))}$$
+    $$\therefore \ \# FC7D26_{(base16)} \Rightarrow (R,G,B) = (252_{(base10)}, \ 125_{(base10)}, \ 38_{(base10)})$$
+
+    Este color tiene mucho rojo (cerca del máximo de 255), intensidad moderada de azul y muy poco verde, por lo que se puede concluir que representa un color anaranjado.
 
 </details>
 

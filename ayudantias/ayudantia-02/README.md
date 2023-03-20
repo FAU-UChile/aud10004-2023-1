@@ -202,7 +202,7 @@ y calculamos
 
 $$ = 32 + 6 = 38$$
 
-$$\therefore \ 26_{(base16)} \Rightarrow 125_{(base10)}$$
+$$\therefore \ 26_{(base16)} \Rightarrow 38_{(base10)}$$
 
 Por lo tanto este color tiene una intensidad 38 de azul.
 

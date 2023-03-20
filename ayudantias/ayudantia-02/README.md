@@ -212,7 +212,7 @@ Finalmente tenemos que este color está formado por la siguiente combinación de
 
 $$\therefore \ FC7D26_{(base16)} \Rightarrow (R,G,B) = (252_{(base10)}, \ 125_{(base10)}, \ 38_{(base10)})$$
 
-Este color tiene mucho rojo (cerca del máximo de 255), intensidad moderada de azul y muy poco verde, por lo que se puede concluir que representa un color anaranjado.
+Este color tiene mucho rojo (cerca del máximo de 255), intensidad moderada de verde y muy poco azul, por lo que se puede concluir que representa un color anaranjado.
 
 </details>
 

@@ -168,7 +168,7 @@ $$FC_{(base16)} \Rightarrow 15 \cdot 16^1 + 12 \cdot 16^0$$
 
 y calculamos
 
-$$ = 240 + 12 = 252$$
+$$= 240 + 12 = 252$$
 
 $$\therefore \ FC_{(base16)} \Rightarrow 252_{(base10)}$$
 
@@ -186,7 +186,7 @@ $$7D_{(base16)} \Rightarrow 7 \cdot 16^1 + 13 \cdot 16^0$$
 
 y calculamos
 
-$$ = 112 + 13 = 125$$
+$$= 112 + 13 = 125$$
 
 $$\therefore \ 7D_{(base16)} \Rightarrow 125_{(base10)}$$
 
@@ -200,7 +200,7 @@ $$26_{(base16)} \Rightarrow 2 \cdot 16^1 + 6 \cdot 16^0$$
 
 y calculamos
 
-$$ = 32 + 6 = 38$$
+$$= 32 + 6 = 38$$
 
 $$\therefore \ 26_{(base16)} \Rightarrow 38_{(base10)}$$
 

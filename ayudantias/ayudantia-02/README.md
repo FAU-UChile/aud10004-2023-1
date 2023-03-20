@@ -134,7 +134,7 @@ $$\therefore \ 35_{(base10)} \Rightarrow 100011_{(base2)}$$
 
 ## ejercicio-03: colores RGB como números hexadecimales
 
-- ¿qué color representa el código #FC7D26? ¿qué intensidad de rojo, verde y azul posee este color? escriba su respuesta usando números en base 10.
+¿qué color representa el código #FC7D26? ¿qué intensidad de rojo, verde y azul posee este color? escriba su respuesta usando números en base 10.
 
 
 <details>
@@ -148,74 +148,73 @@ el código hexadecimal posee 16 símbolos:
 |---------|---|---|---|---|---|---|---|---|---|---|----|----|----|----|----|----|
 | base 16 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | A  | B  | C  | D  | E  | F  |
 
-Los códigos de colores poseen 6 cifras hexadecimales. ej: #AA00FF
+los códigos de colores poseen 6 cifras hexadecimales. ej: #AA00FF
 
-Las dos cifras más a la izquierda representan la intensidad del color rojo (AA), las próximas dos cifras la intensidad del color verde (00), y las últimas dos cifras la intensidad del color azul (FF).
+las dos cifras más a la izquierda representan la intensidad del color rojo (AA), las próximas dos cifras la intensidad del color verde (00), y las últimas dos cifras la intensidad del color azul (FF).
 
-- EL color #FC7D26 tiene FC en rojo, 7D en verde y 26 en azul.
+### analizando el color #FC7D26
 
-    ### Intensidad de rojo
+el color #FC7D26 tiene FC en rojo, 7D en verde y 26 en azul.
 
-    Para convertir la cifra FC a decimal hacemos la multiplicación por potencias de 16:
+### intensidad de rojo
 
-    $$FC_{(base16)} \Rightarrow F \cdot 16^1 + C \cdot 16^0$$
+para convertir la cifra FC a decimal hacemos la multiplicación por potencias de 16:
 
-    Convertimos las letras a números
+$$FC_{(base16)} \Rightarrow F \cdot 16^1 + C \cdot 16^0$$
 
-    $$FC_{(base16)} \Rightarrow 15 \cdot 16^1 + 12 \cdot 16^0$$
+convertimos las letras a números
 
-    y calculamos
+$$FC_{(base16)} \Rightarrow 15 \cdot 16^1 + 12 \cdot 16^0$$
 
-    $$ = 240 + 12 = 252$$
+y calculamos
 
-    $$\therefore \ FC_{(base16)} \Rightarrow 252_{(base10)}$$
+$$ = 240 + 12 = 252$$
 
-    Por lo tanto este color tiene una intensidad 252 de rojo.
+$$\therefore \ FC_{(base16)} \Rightarrow 252_{(base10)}$$
 
-    ### Intensidad de verde
+por lo tanto este color tiene una intensidad 252 de rojo.
 
-    Para convertir la cifra 7D a decimal hacemos la multiplicación por potencias de 16:
+### intensidad de verde
 
-    $$7D_{(base16)} \Rightarrow 7 \cdot 16^1 + D \cdot 16^0$$
+para convertir la cifra 7D a decimal hacemos la multiplicación por potencias de 16:
 
-    Convertimos las letras a números
+$$7D_{(base16)} \Rightarrow 7 \cdot 16^1 + D \cdot 16^0$$
 
-    $$FC_{(base16)} \Rightarrow 7 \cdot 16^1 + 13 \cdot 16^0$$
+Convertimos las letras a números
 
-    y calculamos
+$$7D_{(base16)} \Rightarrow 7 \cdot 16^1 + 13 \cdot 16^0$$
 
-    $$ = 112 + 13 = 125$$
+y calculamos
 
-    $$\therefore \ 7D_{(base16)} \Rightarrow 125_{(base10)}$$
+$$ = 112 + 13 = 125$$
 
-    ### Intensidad de azul
+$$\therefore \ 7D_{(base16)} \Rightarrow 125_{(base10)}$$
 
-    Por lo tanto este color tiene una intensidad 125 de verde.
+Por lo tanto este color tiene una intensidad 125 de verde.
 
-    Para convertir la cifra 26 a decimal hacemos la multiplicación por potencias de 16:
+### Intensidad de azul
 
-    $$26_{(base16)} \Rightarrow 2 \cdot 16^1 + 6 \cdot 16^0$$
+Para convertir la cifra 26 a decimal hacemos la multiplicación por potencias de 16:
 
-    y calculamos
+$$26_{(base16)} \Rightarrow 2 \cdot 16^1 + 6 \cdot 16^0$$
 
-    $$ = 32 + 6 = 38$$
+y calculamos
 
-    $$\therefore \ 26_{(base16)} \Rightarrow 125_{(base10)}$$
+$$ = 32 + 6 = 38$$
 
-    Por lo tanto este color tiene una intensidad 38 de azul.
+$$\therefore \ 26_{(base16)} \Rightarrow 125_{(base10)}$$
 
-    Finalmente tenemos que este color está formado por la siguiente combinación de colores RGB:
+Por lo tanto este color tiene una intensidad 38 de azul.
 
-    $$\therefore \ \# FC7D26_{(base16)} \Rightarrow (R,G,B) = (252_{(base10)}, \ 125_{(base10)}, \ 38_{(base10)})$$
+### conclusión final
 
-    Este color tiene mucho rojo (cerca del máximo de 255), intensidad moderada de azul y muy poco verde, por lo que se puede concluir que representa un color anaranjado.
+Finalmente tenemos que este color está formado por la siguiente combinación de colores RGB:
+
+$$\therefore \ \# FC7D26_{(base16)} \Rightarrow (R,G,B) = (252_{(base10)}, \ 125_{(base10)}, \ 38_{(base10)})$$
+
+Este color tiene mucho rojo (cerca del máximo de 255), intensidad moderada de azul y muy poco verde, por lo que se puede concluir que representa un color anaranjado.
 
 </details>
-
-
-
-
-
 
 ## ejercicio-04: la constante $\pi$
 

@@ -25,7 +25,7 @@ martes 21 marzo 2023
 representa los siguientes números decimales como una suma de potencias de 10:
 
 - $2023_{(base10)}$
-- $17.456_{(base10)}$
+- $17,456_{(base10)}$
 - $1003003_{(base10)}$
 
 <details>

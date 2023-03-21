@@ -54,7 +54,7 @@ a) represente los siguientes números binarios como números decimales:
 - $100011_{(base2)}$
 
 <details>
-    <summary>solución</summary>
+    <summary>--- solución ---</summary>
 
 el sistema binario ocupa solo dos dígitos (el 0 y el 1).
 
@@ -93,7 +93,7 @@ b) Represente los siguientes números decimales como un números binarios:
 - $35_{(base10)}$
 
 <details>
-    <summary>solución</summary>
+    <summary>--- solución ---</summary>
 
 para convertir un número en base 10 a cualquier otra base, debemos realizar divisiones sucesivas e ir registrando el residuo de esa división.
 
@@ -138,7 +138,7 @@ $$\therefore \ 35_{(base10)} \Rightarrow 100011_{(base2)}$$
 
 
 <details>
-    <summary>solución</summary>
+    <summary>--- solución ---</summary>
 
 usualmente en los sistemas digitales como nuestros computadores o celulares se utilizan números en base hexadecimal para representar los colores del espectro visible, con números que van del 0 a 255.
 
@@ -180,7 +180,7 @@ para convertir la cifra 7D a decimal hacemos la multiplicación por potencias de
 
 $$7D_{(base16)} \Rightarrow 7 \cdot 16^1 + D \cdot 16^0$$
 
-Convertimos las letras a números
+convertimos las letras a números
 
 $$7D_{(base16)} \Rightarrow 7 \cdot 16^1 + 13 \cdot 16^0$$
 
@@ -190,11 +190,11 @@ $$= 112 + 13 = 125$$
 
 $$\therefore \ 7D_{(base16)} \Rightarrow 125_{(base10)}$$
 
-Por lo tanto este color tiene una intensidad 125 de verde.
+por lo tanto este color tiene una intensidad 125 de verde.
 
 ### Intensidad de azul
 
-Para convertir la cifra 26 a decimal hacemos la multiplicación por potencias de 16:
+para convertir la cifra 26 a decimal hacemos la multiplicación por potencias de 16:
 
 $$26_{(base16)} \Rightarrow 2 \cdot 16^1 + 6 \cdot 16^0$$
 
@@ -204,21 +204,122 @@ $$= 32 + 6 = 38$$
 
 $$\therefore \ 26_{(base16)} \Rightarrow 38_{(base10)}$$
 
-Por lo tanto este color tiene una intensidad 38 de azul.
+por lo tanto este color tiene una intensidad 38 de azul.
 
 ### conclusión final
 
-Finalmente tenemos que este color está formado por la siguiente combinación de colores RGB:
+finalmente tenemos que este color está formado por la siguiente combinación de colores RGB:
 
 $$\therefore \ FC7D26_{(base16)} \Rightarrow (R,G,B) = (252_{(base10)}, \ 125_{(base10)}, \ 38_{(base10)})$$
 
-Este color tiene mucho rojo (cerca del máximo de 255), intensidad moderada de verde y muy poco azul, por lo que se puede concluir que representa un color anaranjado.
+este color tiene mucho rojo (cerca del máximo de 255), intensidad moderada de verde y muy poco azul, por lo que se puede concluir que representa un color anaranjado.
 
 </details>
 
-## ejercicio-04: la constante $\pi$
+## ejercicio-04: clasificando ángulos
 
-## ejercicio-05
+sabiendo que los ángulos se pueden clasificar en los siguientes tipos:
 
+- ángulo agudo (menor a 90 grados)
+- ángulo recto (90 grados)
+- ángulo obtuso (mayor a 90 grados y menor a 180 grados)
+- ángulo llano (180 grados)
+- ángulo cóncavo (mayor a 180 grados)
+- ángulo completo (360 grados)
 
+clasifique los siguientes ángulos que fueron medidos en radianes:
+
+1. ángulo de $\frac{\pi}{2} \ rad$
+2. ángulo de $\pi \ rad$
+3. ángulo de $\frac{3}{2} \pi \ rad$
+4. ángulo de $\frac{\pi}{4} \ rad$
+5. ángulo de $\frac{\pi}{8} \ rad$
+6. ángulo de $2 \pi \ rad$
+
+<details>
+<summary>--- solución ---</summary>
+
+para resolver lo pedido es necesario saber que $360°$ equivalen a $2 \pi \ rad$. cada valor en radianes se puede transformar a grados usando una regla de 3 simple, o se puede hacer por simple inspección.
+
+1. es un ángulo recto ya que $\frac{\pi}{2} \ rad$ corresponden a $90°$
+2. es un ángulo llano ya que $\pi \ rad$ equivalen a $180°$
+3. es un ángulo cóncavo ya que $\frac{3}{2} \pi \ rad$ corresponden a $270°$ (tres veces $90°$).
+4. es un ángulo agudo ya que $\frac{\pi}{4} \ rad$ corresponden a $45°$
+5. es un ángulo agudo ya que $\frac{\pi}{8} \ rad$ corresponden a $22.5°$
+6. es un ángulo completo ya que $2 \pi \ rad$ corresponden a $360°$
+</details>
+
+## ejercicio-05: de grados a radianes y viceversa
+
+utilizando la ecuación:
+
+$$\frac{2 \cdot \pi \cdot radianes}{360 \cdot grados} = \frac{X \cdot radianes}{Y \cdot grados}$$
+
+a) transforme los siguientes ángulos de grados a radianes:
+- $47°$
+- $23°$
+- $195°$
+
+<details>
+<summary>solución</summary>
+
+- para transformar $47°$ a radianes reemplazamos en la ecuación y calculamos:
+
+$$\frac{2 \pi}{360°} = \frac{X}{47°}$$
+
+$$X = \frac{2 \pi \cdot 47°}{360°}$$
+
+$$X = 0.261 \pi \ rad$$ 
+
+- para transformar $23°$ a radianes reemplazamos en la ecuación y calculamos:
+
+$$\frac{2 \pi}{360°} = \frac{X}{23°}$$
+
+$$X = \frac{2 \pi \cdot 23°}{360°}$$
+
+$$X = 0.128 \pi \ rad$$ 
+
+- para transformar $195°$ a radianes reemplazamos en la ecuación y calculamos:
+
+$$\frac{2 \pi}{360°} = \frac{X}{195°}$$
+
+$$X = \frac{2 \pi \cdot 195°}{360°}$$
+
+$$X = 1.083 \pi \ rad$$ 
+
+</details>
+
+b) transforme los siguientes ángulos de radianes a grados:
+- $0.6 \pi \ rad$
+- $1.2 \pi \ rad$
+- $0.23 \pi \ rad$
+
+<details>
+<summary>solución</summary>
+
+- para transformar $0.6 \ rad$ a grados reemplazamos en la ecuación y calculamos:
+
+$$\frac{2 \pi}{360°} = \frac{0.6 \pi \ rad}{Y}$$
+
+$$Y = \frac{0.6 \pi \cdot 360}{2\pi}$$
+
+$$Y = 108°$$
+
+- para transformar $1.2 \pi \ rad$ a grados reemplazamos en la ecuación y calculamos:
+
+$$\frac{2 \pi}{360°} = \frac{1.2 \pi \ rad}{Y}$$
+
+$$Y = \frac{1.2 \pi \cdot 360}{2\pi}$$
+
+$$Y = 216°$$
+
+- para transformar $0.23 \pi \ rad$ a grados reemplazamos en la ecuación y calculamos:
+
+$$\frac{2 \pi}{360°} = \frac{0.23 \pi \ rad}{Y}$$
+
+$$Y = \frac{0.23 \pi \cdot 360}{2\pi}$$
+
+$$Y = 41.4°$$
+
+</details>
 

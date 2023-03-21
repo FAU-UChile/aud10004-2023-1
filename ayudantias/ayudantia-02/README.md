@@ -29,7 +29,7 @@ representa los siguientes números decimales como una suma de potencias de 10:
 - $1003003_{(base10)}$
 
 <details>
-<summary>solución</summary>
+<summary>--- solución ---</summary>
 
 los números que utilizamos día a día está formado por un código de diez símbolos (del 0 al 9). A esto se le llama un código numérico de base 10.
 
@@ -261,7 +261,7 @@ a) transforme los siguientes ángulos de grados a radianes:
 - $195°$
 
 <details>
-<summary>solución</summary>
+<summary>--- solución ---</summary>
 
 - para transformar $47°$ a radianes reemplazamos en la ecuación y calculamos:
 
@@ -295,7 +295,7 @@ b) transforme los siguientes ángulos de radianes a grados:
 - $0.23 \pi \ rad$
 
 <details>
-<summary>solución</summary>
+<summary>--- solución ---</summary>
 
 - para transformar $0.6 \ rad$ a grados reemplazamos en la ecuación y calculamos:
 

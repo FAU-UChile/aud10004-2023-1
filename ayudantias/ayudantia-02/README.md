@@ -239,7 +239,7 @@ clasifique los siguientes ángulos que fueron medidos en radianes:
 <details>
 <summary>--- solución ---</summary>
 
-para resolver lo pedido es necesario saber que $360°$ equivalen a $2 \pi \ rad$. cada valor en radianes se puede transformar a grados usando una regla de 3 simple, o se puede hacer por simple inspección.
+para resolver lo pedido es necesario saber que $360°$ equivalen a $2 \pi \ rad$.
 
 1. es un ángulo recto ya que $\frac{\pi}{2} \ rad$ corresponden a $90°$
 2. es un ángulo llano ya que $\pi \ rad$ equivalen a $180°$

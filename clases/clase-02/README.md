@@ -25,7 +25,7 @@ notación:
 
 ## triángulo rectángulo
 
-es un triángulo que posee un ángulo recto (90 grados, pi/2 radianes).
+es un triángulo que posee un ángulo recto (1/4 circunferencia, 90 grados, pi/2 radianes).
 
 por definición, ningún triángulo puede tener dos ángulos rectos o mayores a 90 grados, ya que no existiría una manera de cerrar el triángulo.
 
@@ -37,7 +37,7 @@ en texto, la suma de los cuadrados de los catetos es igual al cuadrado de la hip
 
 este es un caso particular del teorema del coseno:
 
-$$a^{2}  + b^{2} = c^{2} + 2 \cdot a \codt b \cdot cos(\gamma)$$
+$$a^{2}  + b^{2} = c^{2} + 2 \cdot a \cdot b \cdot cos(\gamma)$$
 
 ## funciones trigonométricas
 
@@ -47,7 +47,7 @@ $$sin(x) = \frac{cateto_{opuesto}}{hipotenusa}$$
 
 $$cos(x) = \frac{cateto_{adyacente}}{hipotenusa}$$
 
-$$tan(x) = \frac{cateto_{opuesto}}{cateto_{opuesto}}$$
+$$tan(x) = \frac{cateto_{opuesto}}{cateto_{adyacente}}$$
 
 ## operador módulo
 

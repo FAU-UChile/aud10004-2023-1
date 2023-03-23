@@ -29,6 +29,18 @@ teorema de pitágoras:
 
 $$a^{2}  + b^{2} = c^{2}$$
 
+en texto,
+
+## funciones trigonométricas
+
+nemotecnia: SOHCAHTOA
+
+$$sin(x) = \frac{cateto_{opuesto}}{hipotenusa}$$
+
+$$cos(x) = \frac{cateto_{adyacente}}{hipotenusa}$$
+
+$$tan(x) = \frac{cateto_{opuesto}}{cateto_{opuesto}}$$
+
 viernes 24 marzo 2023, presencial
 
 ## definición de una circunferencia

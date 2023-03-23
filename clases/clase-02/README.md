@@ -1,4 +1,4 @@
-# clase-01
+# clase-02
 
 unidad 1: triángulos y circunferencias
 

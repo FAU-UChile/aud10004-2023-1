@@ -41,6 +41,12 @@ $$cos(x) = \frac{cateto_{adyacente}}{hipotenusa}$$
 
 $$tan(x) = \frac{cateto_{opuesto}}{cateto_{opuesto}}$$
 
+## operador módulo
+
+% es el operador módulo que usamos en programación.
+
+% resulta en el resto de una división.
+
 viernes 24 marzo 2023, presencial
 
 ## definición de una circunferencia

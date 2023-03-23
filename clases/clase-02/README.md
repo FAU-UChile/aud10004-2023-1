@@ -51,6 +51,19 @@ $$tan(x) = \frac{cateto_{opuesto}}{cateto_{opuesto}}$$
 
 % resulta en el resto de una división.
 
+## sistemas de ecuaciones
+
+si tenemos N incógnitas, necesitamos hacer un sistema de N ecuaciones para poder despejar estos valores.
+
+podemos tomar las coordenadas de los puntos como la solución de un sistema de 3 ecuaciones, que busca los puntos donde pareas de 3 rectas se intersectan.
+
+## sistema cartesiano
+
+ejes XY:
+
+- X es horizontal, crece hacia derecha
+- Y es vertical, crece hacia arriba
+
 viernes 24 marzo 2023, presencial
 
 ## definición de una circunferencia

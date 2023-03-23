@@ -17,7 +17,7 @@ martes 21 marzo 2023
 - qué es son los ángulos y como se miden
 - diferencia entre grados y radianes
 - conversión entre grados y radianes
-- ¿qué es $\pi$?  
+- ¿qué es $\pi$?
 --->
 
 ## ejercicio-01: números como sumas de potencias
@@ -42,7 +42,7 @@ el resultado para los números pedidos es:
 - $17.456_{(base10)}  \Rightarrow  1 \cdot 10^1 + 7 \cdot 10^0 + 4 \cdot 10^{-1} + 5 \cdot 10^{-2} + 6 \cdot 10^{-2}$
 
 - $1003003_{(base10)} \Rightarrow 1 \cdot 10^6 + 3 \cdot 10^3 + 3 \cdot 10^0$
-        
+
 </details>
 
 ## ejercicio-02: números binarios
@@ -56,9 +56,9 @@ a) represente los siguientes números binarios como números decimales:
 <details>
     <summary>--- solución ---</summary>
 
-el sistema binario ocupa solo dos dígitos (el 0 y el 1).
+el sistema binario ocupa solamente dos dígitos (0 y 1).
 
-para convertir cualquier número binario a un número decimal, debemos representar el número como una suma de potencias de 2 y luego ejecutar la suma.
+para convertir cualquier número binario a un número decimal, debemos representar el número como una suma de potencias de 2 y luego sumar.
 
 para el caso del número binario 11, la suma de potencias de dos quedaría:
 
@@ -68,7 +68,7 @@ $$= 2 + 1 = 3_{(base10)}$$
 
 $$\therefore \ 11_{(base2)} \Rightarrow 3_{(base10)}$$
 
-Para el caso del número binario 1101:
+para el caso del número binario 1101:
 
 $$1101_{(base2)} \Rightarrow 1 \cdot 2^3 + 1 \cdot 2^2 + 0 \cdot 2^1 + 1 \cdot 2^0$$
 
@@ -76,7 +76,7 @@ $$= 8 + 4 + 0 + 1 \\ = 13_{(base10)}$$
 
 $$\therefore \ 1101_{(base2)} \Rightarrow 13_{(base10)}$$
 
-Y para convertir el número binario 100011 a decimal:
+y para convertir el número binario 100011 a decimal:
 
 $$100011_{(base2)} \Rightarrow 1 \cdot 2^5 + 1 \cdot 2^1 + 1 \cdot 2^0$$
 
@@ -86,7 +86,7 @@ $$\therefore \ 100011_{(base2)} \Rightarrow 35_{(base10)}$$
 
 </details>
 
-b) Represente los siguientes números decimales como un números binarios:
+b) represente los siguientes números decimales como un números binarios:
 
 - $3_{(base10)}$
 - $13_{(base10)}$
@@ -97,36 +97,36 @@ b) Represente los siguientes números decimales como un números binarios:
 
 para convertir un número en base 10 a cualquier otra base, debemos realizar divisiones sucesivas e ir registrando el residuo de esa división.
 
-Para convertir $3_{(base10)}$ hacemos lo siguiente:
+para convertir $3_{(base10)}$ hacemos lo siguiente:
 
-1. Dividimos $3 \div 2 = 1$ con residuo $1$. Este residuo es la primera cifra de nuestro número binario.
-2. Dividimo $1 \div 2 = 0$ con residuo $1$. Este residuo es la segunda cifra de nuestro número binario.
+1. Dividimos $3 \div 2 = 1$ con residuo $1$. este residuo es la primera cifra de nuestro número binario.
+2. dividimo $1 \div 2 = 0$ con residuo $1$. este residuo es la segunda cifra de nuestro número binario.
 
-Para formar el número binario recopilamos los residuos calculados:
+para formar el número binario recopilamos los residuos calculados:
 
 $$\therefore \ 3_{(base10)} \Rightarrow 11_{(base2)}$$
 
-Para convertir $13_{(base10)}$ hacemos lo siguiente:
+para convertir $13_{(base10)}$ hacemos lo siguiente:
 
 1. Dividimos $13 \div 2 = 6$ con residuo $1$
 2. Dividimos $6 \div 2 = 3$ con residuo $0$
 3. Dividimos $3 \div 2 = 1$ con residuo $1$
 4. Dividimos $1 \div 2 = 0$ con residuo $1$
 
-Recopilando los residuos obtenemos:
+recopilando los residuos obtenemos:
 
 $$\therefore \ 13_{(base10)} \Rightarrow 1101_{(base2)}$$
 
 Para convertir $35_{(base10)}$ hacemos lo mismo:
 
-1. Dividimos $35 \div 2 = 17$ con residuo $1$
-2. Dividimos $17 \div 2 = 8$ con residuo $1$
-3. Dividimos $8 \div 2 = 4$ con residuo $0$
-4. Dividimos $4 \div 2 = 2$ con residuo $0$
-5. Dividimos $2 \div 2 = 1$ con residuo $0$
-6. Dividimos $1 \div 2 = 0$ con residuo $1$
+1. dividimos $35 \div 2 = 17$ con residuo $1$
+2. dividimos $17 \div 2 = 8$ con residuo $1$
+3. dividimos $8 \div 2 = 4$ con residuo $0$
+4. dividimos $4 \div 2 = 2$ con residuo $0$
+5. dividimos $2 \div 2 = 1$ con residuo $0$
+6. dividimos $1 \div 2 = 0$ con residuo $1$
 
-Recopilando los residuos obtenemos:
+recopilando los residuos obtenemos:
 
 $$\therefore \ 35_{(base10)} \Rightarrow 100011_{(base2)}$$
 
@@ -134,8 +134,7 @@ $$\therefore \ 35_{(base10)} \Rightarrow 100011_{(base2)}$$
 
 ## ejercicio-03: colores RGB como números hexadecimales
 
-¿qué color representa el código #FC7D26? ¿qué intensidad de rojo, verde y azul posee este color? escriba su respuesta usando números en base 10.
-
+¿qué color representa el código hexadecimal #FC7D26? ¿qué intensidad de rojo, verde y azul posee este color? escriba su respuesta usando números en base 10.
 
 <details>
     <summary>--- solución ---</summary>
@@ -144,13 +143,13 @@ usualmente en los sistemas digitales como nuestros computadores o celulares se u
 
 el código hexadecimal posee 16 símbolos:
 
-| base 10 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 |
-|---------|---|---|---|---|---|---|---|---|---|---|----|----|----|----|----|----|
-| base 16 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | A  | B  | C  | D  | E  | F  |
+| base 10 | 0   | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  |
+| ------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| base 16 | 0   | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | A   | B   | C   | D   | E   | F   |
 
 los códigos de colores poseen 6 cifras hexadecimales. ej: #AA00FF
 
-las dos cifras más a la izquierda representan la intensidad del color rojo (AA), las próximas dos cifras la intensidad del color verde (00), y las últimas dos cifras la intensidad del color azul (FF).
+las dos cifras más a la izquierda representan la intensidad del color rojo, las próximas dos cifras la intensidad del color verde, y las últimas dos cifras la intensidad del color azul.
 
 ### analizando el color #FC7D26
 
@@ -180,7 +179,7 @@ para convertir la cifra 7D a decimal hacemos la multiplicación por potencias de
 
 $$7D_{(base16)} \Rightarrow 7 \cdot 16^1 + D \cdot 16^0$$
 
-convertimos las letras a números
+convertimos las letras a números decimales
 
 $$7D_{(base16)} \Rightarrow 7 \cdot 16^1 + 13 \cdot 16^0$$
 
@@ -212,7 +211,7 @@ finalmente tenemos que este color está formado por la siguiente combinación de
 
 $$\therefore \ FC7D26_{(base16)} \Rightarrow (R,G,B) = (252_{(base10)}, \ 125_{(base10)}, \ 38_{(base10)})$$
 
-este color tiene mucho rojo (cerca del máximo de 255), intensidad moderada de verde y muy poco azul, por lo que se puede concluir que representa un color anaranjado.
+este color tiene mucho rojo (cerca del máximo de 255), intensidad moderada de verde y muy poco azul, por lo que se puede concluir que representa un color anaranjado, al ser un sistema aditivo.
 
 </details>
 
@@ -227,7 +226,7 @@ sabiendo que los ángulos se pueden clasificar en los siguientes tipos:
 - ángulo cóncavo (mayor a 180 grados)
 - ángulo completo (360 grados)
 
-clasifique los siguientes ángulos que fueron medidos en radianes:
+clasifica los siguientes ángulos que fueron medidos en radianes:
 
 1. ángulo de $\frac{\pi}{2} \ rad$
 2. ángulo de $\pi \ rad$
@@ -256,6 +255,7 @@ utilizando la ecuación:
 $$\frac{2 \cdot \pi \cdot radianes}{360 \cdot grados} = \frac{X \cdot radianes}{Y \cdot grados}$$
 
 a) transforme los siguientes ángulos de grados a radianes:
+
 - $47°$
 - $23°$
 - $195°$
@@ -269,7 +269,7 @@ $$\frac{2 \pi}{360°} = \frac{X}{47°}$$
 
 $$X = \frac{2 \pi \cdot 47°}{360°}$$
 
-$$X = 0.261 \pi \ rad$$ 
+$$X = 0.261 \pi \ rad$$
 
 - para transformar $23°$ a radianes reemplazamos en la ecuación y calculamos:
 
@@ -277,7 +277,7 @@ $$\frac{2 \pi}{360°} = \frac{X}{23°}$$
 
 $$X = \frac{2 \pi \cdot 23°}{360°}$$
 
-$$X = 0.128 \pi \ rad$$ 
+$$X = 0.128 \pi \ rad$$
 
 - para transformar $195°$ a radianes reemplazamos en la ecuación y calculamos:
 
@@ -285,11 +285,12 @@ $$\frac{2 \pi}{360°} = \frac{X}{195°}$$
 
 $$X = \frac{2 \pi \cdot 195°}{360°}$$
 
-$$X = 1.083 \pi \ rad$$ 
+$$X = 1.083 \pi \ rad$$
 
 </details>
 
 b) transforme los siguientes ángulos de radianes a grados:
+
 - $0.6 \pi \ rad$
 - $1.2 \pi \ rad$
 - $0.23 \pi \ rad$
@@ -322,4 +323,3 @@ $$Y = \frac{0.23 \pi \cdot 360}{2\pi}$$
 $$Y = 41.4°$$
 
 </details>
-

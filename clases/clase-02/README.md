@@ -29,7 +29,11 @@ teorema de pitágoras:
 
 $$a^{2}  + b^{2} = c^{2}$$
 
-en texto,
+en texto, la suma de los cuadrados de los catetos es igual al cuadrado de la hipotenusa. otra forma de verlo, es que si dibujamos los cuadrados correspondientes al lado de cada triángulo, la suma de las áreas de los cuadrados de los catetos es igual a la área asociada a la hipotenusa.
+
+este es un caso particular del teorema del coseno:
+
+$$a^{2}  + b^{2} = c^{2} + 2 \cdot a \codt b \cdot cos(\gamma)$$
 
 ## funciones trigonométricas
 
@@ -54,3 +58,7 @@ viernes 24 marzo 2023, presencial
 una circunferencia es una figura geométrica en 2 dimensiones, vive en un plano.
 
 la circunferencia es el lugar geométrico equidistante a un punto central.
+
+## pi
+
+PI es un número irracional, no se puede expresar como una división entre dos números enteros distintos de 1. tiene infinitos decimales.

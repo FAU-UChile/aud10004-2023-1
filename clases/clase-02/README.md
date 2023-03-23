@@ -35,9 +35,15 @@ $$a^{2}  + b^{2} = c^{2}$$
 
 en texto, la suma de los cuadrados de los catetos es igual al cuadrado de la hipotenusa. otra forma de verlo, es que si dibujamos los cuadrados correspondientes al lado de cada triángulo, la suma de las áreas de los cuadrados de los catetos es igual a la área asociada a la hipotenusa.
 
-este es un caso particular del teorema del coseno:
+## teorema del coseno
+
+el teorema de pitágoras es un caso particular del teorema del coseno con gamma = 90 grados.
 
 $$a^{2}  + b^{2} = c^{2} + 2 \cdot a \cdot b \cdot cos(\gamma)$$
+
+## teorema del seno
+
+$$\frac{a}{sin(\alpha)} = \frac{b}{sin(\beta)} = \frac{c}{sin(\gamma)}$$
 
 ## funciones trigonométricas
 

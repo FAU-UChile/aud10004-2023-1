@@ -4,6 +4,10 @@ unidad 1: triángulos y circunferencias
 
 jueves 23 marzo 2023, presencial
 
+## repaso clase anterior
+
+preguntas? dudas? comentarios?
+
 ## definición de un triángulo
 
 un triángulo es una figura geométrica en 2 dimensiones, vive en un plano.

@@ -92,6 +92,8 @@ una circunferencia es una figura geométrica en 2 dimensiones, vive en un plano.
 
 la circunferencia es el lugar geométrico equidistante a un punto central.
 
+la distancia entre el centro y cualquier punto de la circunferencia es llamado radio, y lo anotamos como R.
+
 ## pi
 
-PI es un número irracional, no se puede expresar como una división entre dos números enteros distintos de 1. tiene infinitos decimales.
+pi $\Pi$ es un número irracional, no se puede expresar como una división entre dos números enteros distintos de 1. tiene infinitos decimales.

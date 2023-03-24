@@ -41,6 +41,16 @@ el teorema de pitágoras es un caso particular del teorema del coseno con gamma 
 
 $$a^{2}  + b^{2} = c^{2} + 2 \cdot a \cdot b \cdot cos(\gamma)$$
 
+analicemos este teorema, partamos por el lado izquierdo de la igualdad. tomamos dos lados cualquiera (a y b), los elevamos al cuadrado y los sumamos, listo. al lado derecho de la ecuación tenemos el otro lado (c) al cuadrado más una multiplicación entre 2, los lados a y b, y el coseno del ángulo que forman estos lados ($\gamma$).
+
+este teorema aplica para todos los ángulos y lados del triángulo, escribamos el teorema con ángulo $\alpha$:
+
+$$b^{2}  + c^{2} = a^{2} + 2 \cdot b \cdot c \cdot cos(\alpha)$$
+
+y escribamos el teorema con ángulo $\beta$:
+
+$$a^{2}  + c^{2} = b^{2} + 2 \cdot a \cdot c \cdot cos(\beta)$$
+
 ## teorema del seno
 
 $$\frac{a}{sin(\alpha)} = \frac{b}{sin(\beta)} = \frac{c}{sin(\gamma)}$$

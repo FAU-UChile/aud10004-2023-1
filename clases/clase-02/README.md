@@ -12,7 +12,7 @@ preguntas? dudas? comentarios?
 
 un triángulo es una figura geométrica en 2 dimensiones, vive en un plano.
 
-para construir un triángulo
+para construir un triángulo, necesitamos tres rectas en un plano con inclinación distintas. estas tres rectas se intersectan en 3 puntos, que definen al triángulo.
 
 los ángulos interiores de un triángulo miden 180 grados.
 
@@ -128,4 +128,24 @@ $$perímetro = 2 \cdot \pi \cdot R$$
 
 ## tau
 
-tau $\tau$ es otra manera de
+tau $\tau$ es otra manera de describir la relación entre el perímetro de una circunferencia y su diámetro, donde $\tau$ es el doble de $\pi$.
+
+$$perímetro = 2 \cdot \pi \cdot R$$
+
+$$perímetro = \tau \cdot R$$
+
+y si despejamos tau:
+
+$$ \tau = \frac{perímetro}{R}$$
+
+## coordenadas y circunferencias
+
+si definimos el centro del origen cartesiano en el centro de la circunferencia, podemos describir cada punto de la circunferencia, según su coordenada XY, y también según el radio y el ángulo de inclinación, de la siguiente forma:
+
+$$ x = R \cdot cos(\theta)$$
+
+$$ y = R \cdot sin(\theta)$$
+
+## valores notables de sin y cos
+
+$$sin(0^{o}) = 0$$

@@ -92,8 +92,16 @@ una circunferencia es una figura geométrica en 2 dimensiones, vive en un plano.
 
 la circunferencia es el lugar geométrico equidistante a un punto central.
 
+## radio y diámetro
+
 la distancia entre el centro y cualquier punto de la circunferencia es llamado radio, y lo anotamos como R.
+
+el doble del radio, es llamado diámetro, y corresponde a la recta de mayor longitud que podemos dibujar dentro de una circunferencia.
 
 ## pi
 
-pi $\Pi$ es un número irracional, no se puede expresar como una división entre dos números enteros distintos de 1. tiene infinitos decimales.
+pi $\pi$ es un número irracional, no se puede expresar como una división entre dos números enteros distintos de 1. tiene infinitos decimales.
+
+pi es un número que ocurre naturalmente en las circunferencias, al dividir el perímetro de una circunferencia, por su diámetro, entonces, por definición:
+
+$$\frac{perímetro_{circunferencia}}{diámetro_{circunferencia}} = \pi$$

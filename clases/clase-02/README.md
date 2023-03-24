@@ -104,4 +104,22 @@ pi $\pi$ es un número irracional, no se puede expresar como una división entre
 
 pi es un número que ocurre naturalmente en las circunferencias, al dividir el perímetro de una circunferencia, por su diámetro, entonces, por definición:
 
-$$\frac{perímetro_{circunferencia}}{diámetro_{circunferencia}} = \pi$$
+$$\frac{perímetro}{diámetro} = \pi$$
+
+algunos aproximaciones típicass de $\pi$ incluyen:
+
+$$\pi \appr 3.14159$$
+
+## perímetro de una circunferencia
+
+de esta ecuación que acabamos de definir, podemos reescribir para definir el perímetro de una circunferencia en función de la constante $\pi$ y del radio.
+
+$$perímetro = diámetro \cdot \pi$$
+
+y como el diámetro es igual a dos veces el radio:
+
+$$perímetro = 2 \cdot \pi \cdot R$$
+
+## tau
+
+tau $\tau$ es otra manera de

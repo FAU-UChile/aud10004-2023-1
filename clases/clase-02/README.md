@@ -149,13 +149,23 @@ $$ y = R \cdot sin(\theta)$$
 ## valores notables de sin y cos
 
 $$sin(0^{o}) = 0$$
+
 $$sin(30^{o}) = \frac{1}{2}$$
+
 $$sin(45^{o}) = \frac{\sqrt(2)}{2}$$
+
 $$sin(60^{o}) = \frac{\sqrt(3)}{2}$$
+
 $$sin(90^{o}) = 1$$
 
 $$cos(0^{o}) = 1$$
+
 $$cos(30^{o}) = \frac{\sqrt(3)}{2}$$
+
 $$cos(45^{o}) = \frac{\sqrt(2)}{2}$$
+
 $$cos(60^{o}) = \frac{1}{2}$$
+
 $$cos(90^{o}) = 0$$
+
+...

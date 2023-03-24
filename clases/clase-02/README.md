@@ -108,7 +108,13 @@ $$\frac{perímetro}{diámetro} = \pi$$
 
 algunos aproximaciones típicass de $\pi$ incluyen:
 
-$$\pi \appr 3.14159$$
+$$\pi \approx 3.14159$$
+
+$$\pi \approx 3.1416$$
+
+$$\pi \approx 3.14$$
+
+$$\pi \approx 3$$
 
 ## perímetro de una circunferencia
 

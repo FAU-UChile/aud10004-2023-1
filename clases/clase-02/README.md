@@ -149,3 +149,7 @@ $$ y = R \cdot sin(\theta)$$
 ## valores notables de sin y cos
 
 $$sin(0^{o}) = 0$$
+$$sin(30^{o}) = \frac{1}{2}$$
+$$sin(45^{o}) = \frac{\sqrt(2)}{2}$$
+$$sin(60^{o}) = \frac{\sqrt(3)}{2}$$
+$$sin(90^{o}) = 1$$

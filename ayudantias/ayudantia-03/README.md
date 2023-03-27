@@ -4,11 +4,11 @@ martes 28 marzo 2023
 
 ## resumen de fórmulas
 
-![Alt text](./img/1.png)
+![](./img/1.png | width=100)
 
-![Alt text](./img/2.svg)
+![](./img/2.png)
 
-![Alt text](./img/3.svg)
+![](./img/3.png)
 
 ## ejercicio-01: diseñando una mesa redonda
 

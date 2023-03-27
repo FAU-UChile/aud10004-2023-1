@@ -4,6 +4,12 @@ martes 28 marzo 2023
 
 ## resumen de fórmulas
 
+![Alt text](./img/1.png)
+
+![Alt text](./img/2.svg)
+
+![Alt text](./img/3.svg)
+
 ## ejercicio-01: diseñando una mesa redonda
 
 quiero diseñar una mesa redonda para 6 personas. estimo que una persona ocupa un espacio de al menos $80(cm)$

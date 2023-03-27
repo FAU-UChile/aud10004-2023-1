@@ -4,10 +4,9 @@ martes 28 marzo 2023
 
 ## resumen de fórmulas
 
-| | |
-|:-------------------------:|:-------------------------:|
-| <img src="./img/1.png" width="400"/> | <img src="./img/2.png" width="400"  />|
-<img src="./img/3.png" width="400"  />| |
+<img src="./img/1.png" style="width:48%"/>
+<img src="./img/2.png" style="width:48%"/>
+<img src="./img/3.png" style="width:48%"/>
 
 
 

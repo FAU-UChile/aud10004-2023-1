@@ -4,13 +4,11 @@ martes 28 marzo 2023
 
 ## resumen de fórmulas
 
-<img src="./img/1.png" style="width:48%"/>
-<img src="./img/2.png" style="width:48%"/>
-<img src="./img/3.png" style="width:48%"/>
-
-
-
-
+<div>
+<img src="./img/1.png" style="float:left;width:40%"/>
+<img src="./img/2.png" style="float:left;width:40%"/>
+<img src="./img/3.png" style="float:left;width:40%"/>
+</div>
 
 ## ejercicio-01: diseñando una mesa redonda
 

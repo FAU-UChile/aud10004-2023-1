@@ -239,9 +239,9 @@ considerando el triángulo de la figura anterior, calcule:
 
 ![Alt text](./img/edificios.png)
 
-un arquitecto desea calcular la altura de dos edificios que están situados a 100 metros de distancia. Con un instrumento láser puede medir que desde la azotea del edificio más alto se observa la azotea del otro edificio bajo ángulo de $\alpha = 73.3°$. 
+un arquitecto desea calcular la altura de dos edificios que están situados a 100 metros de distancia. Con un instrumento láser puede medir que desde la azotea del edificio más alto se observa la azotea del otro edificio en un ángulo de $\alpha = 73.3°$. 
 
-desde la base del edificio más alto, se ve la azotea del otro edificio bajo un ángulo de $\beta=19.29°$.
+desde la base del edificio más alto, se ve la azotea del otro edificio en un ángulo de $\beta=19.29°$.
 
 ¿Es posible calcular la altura de los edificios con los datos con los que se cuenta? En caso afirmativo, ¿cuál es la altura de cada edificio?
 
@@ -250,7 +250,7 @@ desde la base del edificio más alto, se ve la azotea del otro edificio bajo un 
 
 ![Alt text](./img/edificios2.png)
 
-podemos trazar una línea para formar dos ángulos rectángulos como en la figura. con eso podemos empezar a utilizar razones trigonométricas para calcular $x$ e $y$.
+podemos trazar una línea para formar dos triángulos rectángulos como en la figura. con eso podemos empezar a utilizar razones trigonométricas para calcular $x$ e $y$.
 
 para calcular $x$ hacemos:
 

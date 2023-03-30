@@ -12,11 +12,9 @@ un vector posee 3 medidas:
 
 ## producto punto
 
-resultado es un número!
-
-producto punto entre vectores
-
 $$\vec{A} \cdot \vec{B}$$
+
+resultado es un número!
 
 una manera de calcularlo
 
@@ -29,5 +27,7 @@ $$\vec{A} \cdot \vec{B} = \vert A \vert \vert B \vert cos(\theta)$$
 ## producto cruz
 
 resultado es un vector!
+
+$$\vec{A} \times \vec{B}$$
 
 viernes 31 marzo 2023, presencial

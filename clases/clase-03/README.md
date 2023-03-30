@@ -12,9 +12,9 @@ un vector posee 3 medidas:
 
 ## producto punto
 
-$$\vec{A} \cdot \vec{B}$$
-
 resultado es un número!
+
+$$\vec{A} \cdot \vec{B}$$
 
 una manera de calcularlo
 
@@ -28,6 +28,6 @@ $$\vec{A} \cdot \vec{B} = \vert A \vert \vert B \vert cos(\theta)$$
 
 resultado es un vector!
 
-$$\vec{A} \times \vec{B}$$
+$$\vec{A} \times \vec{B}$ = $
 
 viernes 31 marzo 2023, presencial

@@ -29,11 +29,14 @@
   - triángulos rectángulos
   - teoremas del seno y coseno
   - pi y tau
-- unidad 2: planos y rectas
-  - ecuación de planos y superficies
+- unidad 2: planos y recta
+  - vectores
+  - producto punto y producto cruz
+  - ecuación de planos
+  - ecuaciones de recta
 - unidad 3: ecuaciones y gráficos
   - sistemas de ecuaciones
-  - sistemas de coordenadas
+  - sistemas de inecuaciones
   - buenas prácticas para graficar
 - unidad 4: computadores y bits
   - sistemas RGB, CYMK

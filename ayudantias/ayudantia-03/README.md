@@ -66,9 +66,9 @@ la rampa para entrar a la casa generará un triángulo rectángulo con uno de lo
 
 usando la relación trigonométrica del seno del ángulo:
 
-$$\sin(x) = \frac{cateto_{opuesto}}{hipotenusa}$$
+$$\sin(\beta) = \frac{cateto_{opuesto}}{hipotenusa}$$
 
-$$\sin(x) = \frac{b}{c}$$
+$$\sin(\beta) = \frac{b}{c}$$
 
 $$\sin(10°) = \frac{50(cm)}{c}$$
 

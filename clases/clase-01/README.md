@@ -92,7 +92,7 @@ los números arábigos que usamos en "Occidente", son diez símbolos que combina
 
 si analizamos el número 5781.2, podemos verlo como
 
-$$5 \cdot 10^{3} + 7 \cdot 10^{2} + 8 \cdot 10^{2} + 1 \cdot 10^{1} + 2 \cdot 10^{-1}$$
+$$5 \cdot 10^{3} + 7 \cdot 10^{2} + 8 \cdot 10^{1} + 1 \cdot 10^{0} + 2 \cdot 10^{-1}$$
 
 entonces empezamos contando desde 0, aumentamos de 1 en 1, cuando llegamos al 9 no quedan símbolos, y se rebasa, y el siguiente número es 10, luego 11, luego 12, etc.
 

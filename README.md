@@ -29,11 +29,14 @@
   - triángulos rectángulos
   - teoremas del seno y coseno
   - pi y tau
-- unidad 2: planos y rectas
-  - ecuación de planos y superficies
+- unidad 2: planos y recta
+  - vectores
+  - producto punto y producto cruz
+  - ecuación de planos
+  - ecuaciones de recta
 - unidad 3: ecuaciones y gráficos
   - sistemas de ecuaciones
-  - sistemas de coordenadas
+  - sistemas de inecuaciones
   - buenas prácticas para graficar
 - unidad 4: computadores y bits
   - sistemas RGB, CYMK
@@ -69,25 +72,25 @@ la nota final de la clase será el promedio simple de estas evaluaciones:
 
 ## clases (jueves y viernes 8:30am - 10am)
 
-| clase                   | fechas        | tema                                   |
-| :---------------------- | :------------ | :------------------------------------- |
-| [01](clases/clase-01/)  | 2023-03-16/17 | unidad 0: números y ángulos            |
-| [02](clases/clase-02/)  | 2023-03-23/24 | unidad 1: triángulos y circunferencias |
-| [03](clases/clase-03/)  | 2023-03-30/31 | unidad 2: planos y rectas              |
-| [04](clases/clase-04/)  | 2023-04-06/07 | unidad 2: planos y rectas              |
-| [05](clases/clase-05/)  | 2023-04-13/14 | unidad 3: ecuaciones y gráficos        |
-| [06](clases/clase-06/)  | 2023-04-20/21 | unidad 3: ecuaciones y gráficos        |
-| [07](clases/clase-07/)  | 2023-04-27/28 | repaso y control 2: unidades 2, 3      |
-| semana receso           | 2023-05-04/05 | no hay sesión                          |
-| [08](clases/clase-08/)  | 2023-05-11/12 | unidad 4: computadores y bits          |
-| [09](clases/clase-09/)  | 2023-05-18/19 | unidad 4: computadores y bits          |
-| [10](clases/clase-10/)  | 2023-05-25/26 | unidad 5: vectores y unidades          |
-| [11](clases/clase-11/)  | 2023-06-01/02 | unidad 6: funciones y gráficos         |
-| [12](clases/clase-12/)  | 2023-06-08/09 | unidad 6: funciones y gráficos         |
-| [13](clases/clase-13/)  | 2023-06-15/16 | unidad 7: cónicas y elipses            |
-| semana trabajo autónomo | 2023-06-22/23 | trabajo de investigación               |
-| [14](clases/clase-14/)  | 2023-06-29/30 | clase final de retroalimentación       |
-| cierre acta             | 2023-07-14    | notas finales publicadas               |
+| clase                   | fechas        | tema                                        |
+| :---------------------- | :------------ | :------------------------------------------ |
+| [01](clases/clase-01/)  | 2023-03-16/17 | unidad 0: números y ángulos                 |
+| [02](clases/clase-02/)  | 2023-03-23/24 | unidad 1: triángulos y circunferencias      |
+| [03](clases/clase-03/)  | 2023-03-30/31 | unidad 2: planos y rectas / repaso          |
+| [04](clases/clase-04/)  | 2023-04-06    | unidad 2: planos y rectas / viernes feriado |
+| [05](clases/clase-05/)  | 2023-04-13/14 | unidad 3: ecuaciones y gráficos             |
+| [06](clases/clase-06/)  | 2023-04-20/21 | unidad 3: ecuaciones y gráficos             |
+| [07](clases/clase-07/)  | 2023-04-27/28 | repaso y control 2: unidades 2, 3           |
+| semana receso           | 2023-05-04/05 | no hay sesión                               |
+| [08](clases/clase-08/)  | 2023-05-11/12 | unidad 4: computadores y bits               |
+| [09](clases/clase-09/)  | 2023-05-18/19 | unidad 4: computadores y bits               |
+| [10](clases/clase-10/)  | 2023-05-25/26 | unidad 5: vectores y unidades               |
+| [11](clases/clase-11/)  | 2023-06-01/02 | unidad 6: funciones y gráficos              |
+| [12](clases/clase-12/)  | 2023-06-08/09 | unidad 6: funciones y gráficos              |
+| [13](clases/clase-13/)  | 2023-06-15/16 | unidad 7: cónicas y elipses                 |
+| semana trabajo autónomo | 2023-06-22/23 | trabajo de investigación                    |
+| [14](clases/clase-14/)  | 2023-06-29/30 | clase final de retroalimentación            |
+| cierre acta             | 2023-07-14    | notas finales publicadas                    |
 
 ## ayudantías (martes 8:30am - 10am)
 

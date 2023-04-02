@@ -102,9 +102,9 @@ opción 2:
 
 es posible utilizar la relación trigonométrica de la tangente del ángulo:
 
-$$\tan(x) = \frac{cateto_{opuesto}}{cateto_{adyacente}}$$
+$$\tan(\beta) = \frac{cateto_{opuesto}}{cateto_{adyacente}}$$
 
-$$\tan(x) = \frac{b}{a}$$
+$$\tan(\beta) = \frac{b}{a}$$
 
 $$\tan(10°) = \frac{50(cm)}{a}$$
 

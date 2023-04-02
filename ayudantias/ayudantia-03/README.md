@@ -185,7 +185,7 @@ considerando el triángulo de la figura anterior, calcule:
 
     </details>
 
-3. si $c=5$, $a=3$ y $\beta = 26°$ ¿Cuál es la longitud de $c$? ¿Cuánto valen $\alpha$ y $\beta$?
+3. si $c=5$, $a=3$ y $\beta = 26°$ ¿Cuál es la longitud de $b$? ¿Cuánto valen $\alpha$ y $\beta$?
 
     <details>
     <summary>--- solución ---</summary>
@@ -200,9 +200,9 @@ considerando el triángulo de la figura anterior, calcule:
 
     $$34 = b^2 + 30 \cdot \cos(26°)$$
 
-    $$c = \sqrt{34 - 30 \cdot \cos(26°)}$$
+    $$b = \sqrt{34 - 30 \cdot \cos(26°)}$$
 
-    $$c = 2.65$$
+    $$b = 2.65$$
 
     </details>
 

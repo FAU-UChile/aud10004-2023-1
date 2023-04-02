@@ -125,7 +125,7 @@ Dato: https://www.calkoo.com/es/calculadora-de-triangulos
 
 considerando el triángulo de la figura anterior, calcule:
 
-1. si $a=8$, $b=9$ y $\gamma = 50°$ ¿Cuál es la longitud de $c$? ¿Cuánto valen $\alpha$ y $\beta$?
+1. si $a=8$, $b=9$ y $\gamma = 50°$ ¿Cuál es la longitud de $c$?
 
     <details>
     <summary>--- solución ---</summary>

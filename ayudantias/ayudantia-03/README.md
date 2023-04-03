@@ -66,9 +66,9 @@ la rampa para entrar a la casa generará un triángulo rectángulo con uno de lo
 
 usando la relación trigonométrica del seno del ángulo:
 
-$$\sin(x) = \frac{cateto_{opuesto}}{hipotenusa}$$
+$$\sin(\beta) = \frac{cateto_{opuesto}}{hipotenusa}$$
 
-$$\sin(x) = \frac{b}{c}$$
+$$\sin(\beta) = \frac{b}{c}$$
 
 $$\sin(10°) = \frac{50(cm)}{c}$$
 
@@ -102,9 +102,9 @@ opción 2:
 
 es posible utilizar la relación trigonométrica de la tangente del ángulo:
 
-$$\tan(x) = \frac{cateto_{opuesto}}{cateto_{adyacente}}$$
+$$\tan(\beta) = \frac{cateto_{opuesto}}{cateto_{adyacente}}$$
 
-$$\tan(x) = \frac{b}{a}$$
+$$\tan(\beta) = \frac{b}{a}$$
 
 $$\tan(10°) = \frac{50(cm)}{a}$$
 
@@ -125,7 +125,7 @@ Dato: https://www.calkoo.com/es/calculadora-de-triangulos
 
 considerando el triángulo de la figura anterior, calcule:
 
-1. si $a=8$, $b=9$ y $\gamma = 50°$ ¿Cuál es la longitud de $c$? ¿Cuánto valen $\alpha$ y $\beta$?
+1. si $a=8$, $b=9$ y $\gamma = 50°$ ¿Cuál es la longitud de $c$?
 
     <details>
     <summary>--- solución ---</summary>
@@ -185,7 +185,7 @@ considerando el triángulo de la figura anterior, calcule:
 
     </details>
 
-3. si $c=5$, $a=3$ y $\beta = 26°$ ¿Cuál es la longitud de $c$? ¿Cuánto valen $\alpha$ y $\beta$?
+3. si $c=5$, $a=3$ y $\beta = 26°$ ¿Cuál es la longitud de $b$? ¿Cuánto valen $\alpha$ y $\beta$?
 
     <details>
     <summary>--- solución ---</summary>
@@ -200,9 +200,9 @@ considerando el triángulo de la figura anterior, calcule:
 
     $$34 = b^2 + 30 \cdot \cos(26°)$$
 
-    $$c = \sqrt{34 - 30 \cdot \cos(26°)}$$
+    $$b = \sqrt{34 - 30 \cdot \cos(26°)}$$
 
-    $$c = 2.65$$
+    $$b = 2.65$$
 
     </details>
 

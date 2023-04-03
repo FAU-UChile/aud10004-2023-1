@@ -94,9 +94,9 @@ si analizamos el número 5781.2, podemos verlo como
 
 $$5 \cdot 10^{3} + 7 \cdot 10^{2} + 8 \cdot 10^{1} + 1 \cdot 10^{0} + 2 \cdot 10^{-1}$$
 
-entonces empezamos contando desde 0, aumentamos de 1 en 1, cuando llegamos al 9 no quedan símbolos, y se rebasa, y el siguiente número es 10, luego 11, luego 12, etc.
+imaginemos que empezamos contando desde 0, aumentamos de 1 en 1, cuando llegamos al 9 no quedan símbolos que podamos usar. para anotar el número siguiente a 9, como no hay espacio, volvemos esta cifra de unidades a cero, y aumentamos en 1 la siguiente posición de las decenas, resultando en el número 10. luego podemos mantener la cifra 1 de las decenas, e ir aumentando la cifra de las unidades, obteniendo 11, 12, 13, ..., 17, 18, 19. después de 19 una vez más tenemos el mismo problema, que 9 es el valor más grande posible de una cifra, así que para seguir avanzando, aumentamos en 1 de nuevo las decenas y así llegamos al número 20. etc...
 
-las unidades se rebasan y hacen aumentar las decenas, las decenas se rebasan y hacen aumentar las centenas, y así.
+cuando superamos el número máximo (9) que podemos anotar en las unidades, debemos aumentar las decenas. cuando llegamos al número máximo en las decenas, empezamos a aumentar las centenas, y así.
 
 en un computador, usamos un sistema binario, donde hay dos símbolos 0 y 1, para representar las metáforas encendido/apagado, sí/no, presencia/ausencia.
 

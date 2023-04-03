@@ -14,4 +14,4 @@ un vector posee 3 medidas:
 
 viernes 31 marzo 2023, presencial
 
-clase de repaso
+clase de repaso sobre materia control 01

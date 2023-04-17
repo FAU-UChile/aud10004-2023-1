@@ -9,12 +9,14 @@ Se resolvieron los ejercicios 03 y 05 de la ayudantía 04 que quedaron pendiente
 resuelva los siguientes sistemas de ecuaciones:
 
 a) 
+
 $$\begin{align}
-2a - b &= 2\\
+2a - b &= 2 \\
 3a + 3b &= 21
 \end{align}$$
 
 b) 
+
 $$
 \begin{align}
 3u - 2v &= 13\\
@@ -23,6 +25,7 @@ $$
 $$
 
 c) 
+
 $$
 \begin{align}
 a + b &= 7\\
@@ -31,6 +34,7 @@ a + b &= 7\\
 $$
 
 d) 
+
 $$
 \begin{align}
 2x - 3y &= 8\\
@@ -39,6 +43,7 @@ x - 4y &= -7
 $$
 
 e)
+
 $$
 \begin{align}
 1 - \frac{x}{2} &= 3y - 3\\
@@ -47,6 +52,7 @@ $$
 $$
 
 f)
+
 $$
 \begin{align}
 x - \frac{x-y}{5} &= y - 4\\

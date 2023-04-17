@@ -1,8 +1,8 @@
-# ayudantia-04
+# ayudantia-05
 
 martes 18 abril 2023
 
-Se resolvieron los ejercicios 03 y 05 de la ayudantía 03 que quedaron pendientes.
+Se resolvieron los ejercicios 03 y 05 de la ayudantía 04 que quedaron pendientes.
 
 ## ejercicio-01: sistemas de ecuaciones
 

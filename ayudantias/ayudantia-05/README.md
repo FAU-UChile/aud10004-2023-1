@@ -9,12 +9,10 @@ Se resolvieron los ejercicios 03 y 05 de la ayudantía 04 que quedaron pendiente
 resuelva los siguientes sistemas de ecuaciones:
 
 a) 
-$$
-\begin{align}
+$$\begin{align}
 2a - b &= 2\\
 3a + 3b &= 21
-\end{align}
-$$
+\end{align}$$
 
 b) 
 $$

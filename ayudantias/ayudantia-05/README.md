@@ -51,29 +51,28 @@ $$
 \end{align}
 $$
 
-f)
-
-$$
-\begin{align}
-x - \frac{x-y}{5} &= y - 4\\
-(x+y)-(x-y) &= x + y + 5
-\end{align}
-$$
-
 <details>
 <summary>--- solución ---</summary>
 
-a) $a=3$, $b=4$
+a) $a=3$, $b=4$ 
+
+![](img/Notes_230426_181546_10.jpg)
 
 b) $u=3$, $v=-2$
 
+![](img/Notes_230426_181546_11.jpg)
+
 c) $a=-1$, $b=8$
+
+![](img/Notes_230426_181546_12.jpg)
 
 d) $x=53/5$, $y=22/5$
 
+![](img/Notes_230426_181546_13.jpg)
+
 e) $x=-4$, $y=2$
 
-f) $x=0$, $y=5$
+![](img/Notes_230426_181546_14.jpg)
 
 </details>
 
@@ -89,21 +88,28 @@ d) La diferencia entre los dos ángulos de un triángulo rectángulo es de 50°.
 
 e) La edad de Juan es el doble que la de Fernando. Hace 5 años, Juan tenía el triple de edad que Fernando. ¿Cuál será la edad de Fernando dentro de 5 años?
 
-f) Los valores de las entradas para una función de teatro son $2500 y $5000. Se vendieron 275 entradas y se recaudó $1187500. ¿Cuántas entradas de cada tipo se vendieron?
 
 <details>
 <summary>--- solución ---</summary>
 
 a) El pastel cuesta $350 y el chocolate $220
 
+![](img/Notes_230426_181546_16.jpg)
+
 b) Pablo tiene $4000 y Alicia tiene $12000.
 
-c) El número que cumple estas condiciones es el número 93.
+![](img/Notes_230426_181546_17.jpg)
+
+c) El número que cumple estas condiciones es el número 39.
+
+![](img/Notes_230426_181546_18.jpg)
 
 d) Un ángulo vale 20° y el otro 70°
 
+![](img/Notes_230426_181546_19.jpg)
+
 e) Fernando tiene 10 años y en 5 años más tendrá 15 años.
 
-f) Se vendieron 200 entradas de $5000 y 75 entradas de $2500.
+![](img/Notes_230426_181546_20.jpg)
 
 </details>

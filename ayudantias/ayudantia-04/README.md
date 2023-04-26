@@ -49,25 +49,45 @@ $$\vec{b} = (1,-2)$$
 
 a) dibuje los vectores $\vec{a}$ y $\vec{b}$ en el plano cartesiano.
 
+![](img/1.jpg)
+
 b) dibuje los vectores $(-\vec{a})$ y $(-\vec{b})$ en el plano cartesiano.
+
+![](img/2.jpg)
 
 c) calcule $\vec{a} + \vec{b}$ y dibújelo en el plano cartesiano.
 
+![](img/3.jpg)
+
 d) calcule $\vec{a} - \vec{b}$ y dibújelo en el plano cartesiano.
+
+![](img/4.jpg)
 
 e) calcule $\vec{b} - \vec{a}$ y dibújelo en el plano cartesiano.
 
+![](img/5.jpg)
+
 f) calcule la magnitud de cada vector $\vert \vert \vec{a} \vert \vert$ y $\vert \vert \vec{b} \vert \vert$.
+
+![](img/6.jpg)
 
 g) calcule el vector unitario $\hat{a}$ y dibújelo en el plano cartesiano.
 
 h) calcule el vector unitario $\hat{b}$ y dibújelo en el plano cartesiano.
 
+![](img/7.jpg)
+
+![](img/8.jpg)
+
 i) calcule el vector $\vec{c} = 3 \hat{a}$ y dibújelo en el plano cartesiano.
 
 j) calcule el vector $\vec{d} = -2 \hat{b}$ y dibújelo en el plano cartesiano.
 
+![](img/9.jpg)
+
 k) calcule el producto punto $\vec{a} \cdot \vec{b}$
+
+![](img/10.jpg)
 
 ## ejercicio-03: suma de vectores
 
@@ -85,6 +105,10 @@ b) Dibuje los vectores $\vec{a}$, $\vec{b}$ y $\vec{c}$ en el plano cartesiano.
 
 c) Dibuje paso a paso la suma vectorial $\vec{a} + \vec{b} + \vec{c}$.
 
+![](img/11.jpg)
+
+![](img/12.jpg)
+
 ## ejercicio-04: recta paramétrica
 
 teniendo la recta paramétrica $\ell = \vec{p} + t \vec{d}$.
@@ -101,9 +125,13 @@ e) marque en el plano cartesiano los 4 puntos $t=0$, $t=2$, $t=-2$, $t=5$ que ca
 
 f) dibuje la recta $\ell$ en el plano cartesiano.
 
+![](img/13.jpg)
+
 ## ejercicio-05: recta paramétrica II
 
 calcule una recta paramétrica $\ell = \vec{p} + t \vec{d}$ que pase por los puntos $p_1=(2,2)$ y $p_2=(-1,-4)$.
+
+![](img/14.jpg)
 
 
 

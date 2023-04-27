@@ -29,10 +29,9 @@
   - triángulos rectángulos
   - teoremas del seno y coseno
   - pi y tau
-- unidad 2: planos y recta
-  - vectores
-  - producto punto y producto cruz
-  - ecuación de planos
+- unidad 2: vectores y rectas
+  - vectores 2D
+  - producto punto
   - ecuaciones de recta
 - unidad 3: ecuaciones y gráficos
   - sistemas de ecuaciones

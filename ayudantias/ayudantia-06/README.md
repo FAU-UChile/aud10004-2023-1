@@ -1,4 +1,4 @@
-# ayudantia-05
+# ayudantia-06
 
 martes 25 abril 2023
 
@@ -19,6 +19,16 @@ $$\begin{align}
 x + y &> 2 \\
 y &\geq 2x + 5
 \end{align}$$
+
+<details>
+<summary>--- solución ---</summary>
+
+![](img/Notes_230426_203409_12.jpg)
+![](img/Notes_230426_203409_13.jpg)
+![](img/Notes_230426_203409_14.jpg)
+![](img/Notes_230426_203409_15.jpg)
+
+</details>
 
 ## ejercicio-02: funciones cuadráticas
 
@@ -42,6 +52,16 @@ e) coordenadas de su vértice
 
 f) esbozar su gráfico
 
+<details>
+<summary>--- solución ---</summary>
+
+![](img/Notes_230426_195920_3.jpg)
+![](img/Notes_230426_195920_4.jpg)
+![](img/Notes_230426_195920_5.jpg)
+![](img/Notes_230426_195920_6.jpg)
+
+</details>
+
 ## ejercicio-03: funciones cuadráticas ii
 
 si la función $f(x) = x^2 + ax + a$, pasa por el punto $(1,9)$.
@@ -53,11 +73,13 @@ si la función $f(x) = x^2 + ax + a$, pasa por el punto $(1,9)$.
 
 $a=4$
 
+![](img/1.jpg)
+
 </details>
 
 ## ejercicio-04: funciones cuadráticas iii
 
-si una función cuadrática $f(x) = ax^2 + bx + c$ pasa por el punto $(1,9)$ y tiene su vértice en las coordenadas $(1,1)$. ¿cuánto valen $a$, $b$ y $c$?
+si una función cuadrática $f(x) = ax^2 + bx + c$ pasa por el punto $(0,2)$ y tiene su vértice en las coordenadas $(1,1)$. ¿cuánto valen $a$, $b$ y $c$?
 
 <details>
 <summary>--- solución ---</summary>
@@ -65,5 +87,10 @@ si una función cuadrática $f(x) = ax^2 + bx + c$ pasa por el punto $(1,9)$ y t
 $a=1$, $b=-2$, $c=2$
 
 $f(x) = x^2 - 2x + 2$
+
+![](img/2.jpg)
+![](img/Notes_230426_195920_8.jpg)
+![](img/Notes_230426_195920_9.jpg)
+
 
 </details>

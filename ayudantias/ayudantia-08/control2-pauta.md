@@ -120,15 +120,6 @@ los conjuntos no coinciden por lo que el sistema de ecuaciones no tiene solució
 
 ---
 
----
-***--- solución ---***
-
-el conjunto solución está en el área achurada:
-
-![](img/grafico1.png)
-
----
-
 ## ejercicio-04: funciones cuadráticas (3 puntos)
 
 si la función cuadrática 

@@ -18,8 +18,6 @@ b) ¿Cuánta memoria ocupa la imágen? calcular en:
 
 c) si la imágen se imprime a una resolución de 72 ppp (píxels por pulgada) ¿qué dimensiones tendrá la imágen impresa? calculelo en pulgadas y en centímetros.
 
-d) ¿cuánto demorará en descargarse la imágen en celular que dispone de una conexión a internet de 100 kilobits por segundo? ¿y 2 megabits por segundo?
-
 ## ejercicio-02: escaneando una imágen
 
 se requiere escanear una imágen de 10(cm) x 6(cm).

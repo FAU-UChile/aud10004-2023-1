@@ -2,26 +2,43 @@
 
 martes 23 abril 2023
 
-
-## ejercicio-01: más imágenes digitales y bits
+## ejercicio-01: compresión de imágenes
 
 se tiene una imágen digital de 1024 x 768 pixeles en formato RGB de 8 bits por canal.
 
 a) ¿cuánto espacio en memoria ocupará la imágen? Exprese su respuesta en MB.
 
-b) si la imágen se comprime usando el formato JPG y se logra reducir el tamaño en un 20%, ¿cuánta memoria ocupa la imágen comprimida? Exprese su respuesta en KB.
+b) si la imágen se comprime usando el formato JPG y se logra reducir el tamaño en un 60%, ¿cuánta memoria ocupa la imágen comprimida? Exprese su respuesta en MB.
 
-c) ¿cuánto demorará en descargarse la imágen comprimida en un celular que dispone de una conexión a internet de 100 kilobits por segundo? ¿y 2 megabits por segundo?
+## ejercicio-02: escalando imágenes
 
-## ejercicio-02: millones de colores
+se tiene una imágen de 300 x 200 pixeles que impresa a 200ppp mide 3.81 x 2.54 (cm).
 
-calcule la profundidad de color y cantidad total de colores que pueden representar los siguientes formatos de imágen digital:
+usando los mismos 200ppp se quiere lograr una imágen impresa tal que su su lado más grande ocupe 22 (cm).
+
+a) ¿por qué factor es necesario escalar la imágen en pixeles?
+
+b) ¿cuál es el tamaño en pixeles de la imágen escalada?
+
+## ejercicio-03: millones de colores
+
+calcule la profundidad de color y la cantidad total de colores que pueden representar los siguientes formatos de imágen digital:
 
 a) blanco y negro
-b) escala de grises a 4 bits por canal
-b) escala de grises a 8 bits por canal
-c) escala de grises a 16 bits por canal
-d) RGB a 8 bits por canal
-e) CMYK a 8 bits por canal
-f) RGB a 10 bits por canal
-g) RGB a 12 bits por canal
+b) escala de grises a 2 bits por canal
+c) escala de grises a 4 bits por canal
+d) escala de grises a 8 bits por canal
+e) RGB a 8 bits por canal
+f) CMYK a 8 bits por canal
+g) RGB a 10 bits por canal
+h) RGB a 12 bits por canal
+
+## ejercicio-04: enviando datos de imágen
+
+se tiene una imágen digital de 800 x 600 pixeles en formato RGB de 8 bits por canal.
+
+a) ¿cuánto espacio en memoria ocupará la imágen? Exprese su respuesta en kilobits.
+
+b) ¿cuánto demorará en descargarse esta imágen en un celular que dispone de una conexión a internet de 100 kilobits por segundo? 
+
+c) ¿y si dispone de 2 megabits por segundo?

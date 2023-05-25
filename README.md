@@ -40,11 +40,9 @@
 - unidad 4: computadores y bits
   - sistemas RGB, CYMK
   - resoluciones y muestreos
-- unidad 5: vectores y unidades
-  - vectores unitarios, dirección
-  - productos punto y cruz
-  - paralelismo e intersección
+- unidad 5: unidades de medida
   - unidades lineales, cuadradas y cúbicas
+  - estrategias de conversión entre unidades
 - unidad 6: funciones y gráficos
   - funciones lineal y cuadrática
   - funciones exponencial y logarítmica
@@ -83,7 +81,7 @@ la nota final de la clase será el promedio simple de estas evaluaciones:
 | semana receso           | 2023-05-04/05 | no hay sesión                               |
 | [08](clases/clase-08/)  | 2023-05-11/12 | unidad 4: computadores y bits               |
 | [09](clases/clase-09/)  | 2023-05-18/19 | unidad 4: computadores y bits               |
-| [10](clases/clase-10/)  | 2023-05-25/26 | unidad 5: vectores y unidades               |
+| [10](clases/clase-10/)  | 2023-05-25/26 | unidad 5: unidades de medida                |
 | [11](clases/clase-11/)  | 2023-06-01/02 | unidad 6: funciones y gráficos              |
 | [12](clases/clase-12/)  | 2023-06-08/09 | unidad 6: funciones y gráficos              |
 | [13](clases/clase-13/)  | 2023-06-15/16 | unidad 7: cónicas y elipses                 |

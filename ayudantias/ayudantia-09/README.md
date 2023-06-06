@@ -1,6 +1,6 @@
 # ayudantia-09
 
-martes 23 abril 2023
+martes 23 mayo 2023
 
 ## ejercicio-01: compresión de imágenes
 

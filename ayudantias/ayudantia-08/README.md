@@ -1,6 +1,6 @@
 # ayudantia-08
 
-martes 16 abril 2023
+martes 16 mayo 2023
 
 ## ejercicio-01: imágenes digitales y bits
 

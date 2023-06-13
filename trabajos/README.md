@@ -15,9 +15,10 @@ trabajo a desarrollar durante la semana de trabajo autónomo, entre lunes 19 y d
 ## reglas
 
 - trabajo individual
-- documento de 1 página tamaño carta
-- no copiar y pegar sin citar, usar fuentes y referencias.
+- desarollo y entrega en el documento compartido con login uchile
+- 2 diapositivas máximo por persona, 2 puntos menos por cada diapositiva extra
+- no copiar y pegar sin citar, usar fuentes y referencias
 
 ## fecha de entrega
 
-domingo 25 junio 2023 a las 11:59pm, 2 puntos menos por cada día tarde.
+domingo 25 junio 2023 a las 11:59pm, 2 puntos menos por cada día tarde

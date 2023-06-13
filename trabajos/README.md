@@ -2,6 +2,8 @@
 
 trabajo a desarrollar durante la semana de trabajo autónomo, entre lunes 19 y domingo 25 de junio 2023.
 
+usando lo que hemos aprendido en el curso, elaborar un breve trabajo de investigación individual sobre alguna temática en la intersección de matemáticas, diseño y tus intereses, incluyendo ecuaciones, imágenes tuyas o de fuentes citadas.
+
 ## pauta
 
 - 1 punto base

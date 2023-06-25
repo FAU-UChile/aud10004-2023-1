@@ -212,8 +212,9 @@ $$x+y+1=0$$
 
 para encontrar el centro de la circunferencia debemos encontrar el punto de intersección de las rectas dadas, para eso resolvemos el sistema de ecuaciones de dos incógnitas: 
 
-$$ (i) \ \ \ \ x+3y+3=0$$
-$$ (ii) \ \ \ \ x+y+1=0$$
+$$(i) \ \ \ \ x+3y+3=0$$
+
+$$(ii) \ \ \ \ x+y+1=0$$
 
 **paso 1:** de $(ii)$ aislamos $x$.
 

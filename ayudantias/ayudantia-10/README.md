@@ -212,12 +212,8 @@ $$x+y+1=0$$
 
 para encontrar el centro de la circunferencia debemos encontrar el punto de intersección de las rectas dadas, para eso resolvemos el sistema de ecuaciones de dos incógnitas: 
 
-$$
-\begin{*align}
-(i) &\ \ \ \ x+3y+3=0\\
-(ii) &\ \ \ \ x+y+1=0
-\end{*align}
-$$
+$$ (i) \ \ \ \ x+3y+3=0$$
+$$ (ii) \ \ \ \ x+y+1=0$$
 
 **paso 1:** de $(ii)$ aislamos $x$.
 
@@ -225,25 +221,17 @@ $$(ii) \ \ \ \ x=-y-1$$
 
 **paso 2:** reemplazamos en $(i)$ para obtener una ecuación para $y$.
 
-$$
-\begin{*align}
-(i) &\ \ \ \ x+3y+3=0\\
-&\ \ \ \ (-y-1)+3y+3=0\\
-&\ \ \ \ 2y+2=0\\
-&\ \ \ \ y=\frac{-2}{2}\\
-&\ \ \ \ y=-1\\
-\end{*align}
-$$
+$$(i) \ \ \ \ x+3y+3=0$$
+$$\ \ \ \ (-y-1)+3y+3=0$$
+$$\ \ \ \ 2y+2=0$$
+$$\ \ \ \ y=\frac{-2}{2}$$
+$$\ \ \ \ y=-1$$
 
 **paso 3:** reemplazo $y=-1$ en $(ii)$.
 
-$$
-\begin{*align}
-(ii) &\ \ \ \ x=-y-1\\
-&\ \ \ \ x=-(-1)-1\\
-&\ \ \ \ x=0
-\end{*align}
-$$
+$$(ii) \ \ \ \ x=-y-1$$
+$$\ \ \ \ x=-(-1)-1$$
+$$\ \ \ \ x=0$$
 
 por lo tanto el centro de la circunferencia está en $(0,-1)$ y tiene radio $5$.
 

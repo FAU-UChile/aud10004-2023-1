@@ -83,128 +83,6 @@ $$B_2 = (0,-b) = (0,-2)$$
 
 ## ejercicio-02
 
-dada la elipse de ecuación
-
-$$\frac{(x-6)^2}{36} + \frac{(y+4)^2}{16} = 1$$
-
-a) hallar su centro, semiejes, vértices y focos
-
-b) graficar
-
-<details>
-<summary>--- solución ---</summary>
-
----
-
-a) para averiguar los parámetros pedidos se debe adaptar la ecuación a la forma canónica.
-
-$$\frac{(x-x_0)^2}{a^2} + \frac{(y-y_0)^2}{b^2} = 1$$
-
-$$\frac{(x-6)^2}{36} + \frac{(y+4)^2}{16} = 1$$
-
-$$\frac{(x-6)^2}{6^2} + \frac{(y-(-4))^2}{4^2} = 1$$
-
-de esta expresión se puede concluir:
-
-- el centro $\phi = (6,-4)$
-
-- semieje mayor $a=6$
-
-- semieje menor $b=4$
-
-- como el semieje mayor está con $x^2$, corresponde a una elipse horizontal.
-
-- sus vértices están en las coordenadas: 
-
-$$A_1 = \phi + (a,0) = (6,-4) + (6,0) = (12,-4)$$
-
-$$A_2 = \phi + (-a,0) = (6,-4) + (-6,0) = (0,-4)$$
-
-$$B_1 = \phi + (0,b) = (6,-4) + (0,4) = (6,0)$$
-
-$$B_2 = \phi + (0,-b) = (6,-4) + (0,-4) = (6,-8)$$
-
-- para encontrar los focos se debe calcular $c = \sqrt{a^2-b^2} = \sqrt{6^2-4^2} = \sqrt{20} \approx 4.472$
-
-$$C_1 = \phi + (c,0) = (6,-4) + (\sqrt{20},0) = (6+\sqrt{20},-4)$$
-
-$$C_2 = \phi + (-c,0) = (6,-4) + (-\sqrt{20},0) = (6-\sqrt{20},-4)$$
-
----
-
-b) gráfico:
-
-![](img/ej2.PNG)
-
----
-
-</details>
-
-## ejercicio-03
-
-hallar la ecuación de la elipse con centro en el origen que pasa por el punto (0,4) y tiene excentricidad $\frac{3}{5}$
-
-<details>
-<summary>--- solución ---</summary>
-
----
-
-tomando la ecuación canónica
-
-$$\frac{(x-x_0)^2}{a^2} + \frac{(y-y_0)^2}{b^2} = 1$$
-
-reemplazamos el centro $(0,0)$ y el punto $x=0$ e $y=4$ y resolvemos:
-
-$$\frac{(0-0)^2}{a^2} + \frac{(4-0)^2}{b^2} = 1$$
-
-$$\frac{0}{a^2} + \frac{4^2}{b^2} = 1$$
-
-$$\frac{4^2}{b^2} = 1$$
-
-$$b^2 = 4^2$$
-
-$$\therefore \ b=4$$
-
-ahora tomando la excentricidad:
-
-$$e = \frac{c}{a} = \frac{3}{5}$$
-
-no conocemos c, pero sabemos que $c = \sqrt{a^2-b^2}$
-
-$$e = \frac{ \sqrt{a^2-b^2}}{a} = \frac{3}{5}$$
-
-de lo anterior sabemos que $b=4$, reemplazamos y resolvemos para $a$:
-
-$$\frac{ \sqrt{a^2-4^2}}{a} = \frac{3}{5}$$
-
-$$a^2-4^2 = \frac{3^2}{5^2}a^2$$
-
-$$a^2-4^2 = \frac{9}{25}a^2$$
-
-$$25a^2-400 = 9a^2$$
-
-$$16a^2=400$$
-
-$$a=\sqrt{\frac{400}{16}}$$
-
-$$a=\sqrt{25}$$
-
-$$\therefore \ a=5$$
-
-teniendo los valores de $a$ y $b$ podemos escribir la ecuación buscada:
-
-$$\frac{(x-x_0)^2}{a^2} + \frac{(y-y_0)^2}{b^2} = 1$$
-
-$$\frac{x^2}{5^2} + \frac{y^2}{4^2} = 1$$
-
-$$\frac{x^2}{25} + \frac{y^2}{16} = 1$$
-
----
-
-</details>
-
-## ejercicio-04
-
 hallar la ecuación de la elipse conociendo:
 
 a) $\phi(0,0)$, $C_1(2,0)$, $A_1(3,0)$
@@ -329,3 +207,126 @@ $$\frac{(x+3)^2}{25} + \frac{(y-2)^2}{21} = 1$$
 ---
 
 </details>
+
+## ejercicio-03
+
+dada la elipse de ecuación
+
+$$\frac{(x-6)^2}{36} + \frac{(y+4)^2}{16} = 1$$
+
+a) hallar su centro, semiejes, vértices y focos
+
+b) graficar
+
+<details>
+<summary>--- solución ---</summary>
+
+---
+
+a) para averiguar los parámetros pedidos se debe adaptar la ecuación a la forma canónica.
+
+$$\frac{(x-x_0)^2}{a^2} + \frac{(y-y_0)^2}{b^2} = 1$$
+
+$$\frac{(x-6)^2}{36} + \frac{(y+4)^2}{16} = 1$$
+
+$$\frac{(x-6)^2}{6^2} + \frac{(y-(-4))^2}{4^2} = 1$$
+
+de esta expresión se puede concluir:
+
+- el centro $\phi = (6,-4)$
+
+- semieje mayor $a=6$
+
+- semieje menor $b=4$
+
+- como el semieje mayor está con $x^2$, corresponde a una elipse horizontal.
+
+- sus vértices están en las coordenadas: 
+
+$$A_1 = \phi + (a,0) = (6,-4) + (6,0) = (12,-4)$$
+
+$$A_2 = \phi + (-a,0) = (6,-4) + (-6,0) = (0,-4)$$
+
+$$B_1 = \phi + (0,b) = (6,-4) + (0,4) = (6,0)$$
+
+$$B_2 = \phi + (0,-b) = (6,-4) + (0,-4) = (6,-8)$$
+
+- para encontrar los focos se debe calcular $c = \sqrt{a^2-b^2} = \sqrt{6^2-4^2} = \sqrt{20} \approx 4.472$
+
+$$C_1 = \phi + (c,0) = (6,-4) + (\sqrt{20},0) = (6+\sqrt{20},-4)$$
+
+$$C_2 = \phi + (-c,0) = (6,-4) + (-\sqrt{20},0) = (6-\sqrt{20},-4)$$
+
+---
+
+b) gráfico:
+
+![](img/ej2.PNG)
+
+---
+
+</details>
+
+## ejercicio-04
+
+hallar la ecuación de la elipse con centro en el origen que pasa por el punto (0,4) y tiene excentricidad $\frac{3}{5}$
+
+<details>
+<summary>--- solución ---</summary>
+
+---
+
+tomando la ecuación canónica
+
+$$\frac{(x-x_0)^2}{a^2} + \frac{(y-y_0)^2}{b^2} = 1$$
+
+reemplazamos el centro $(0,0)$ y el punto $x=0$ e $y=4$ y resolvemos:
+
+$$\frac{(0-0)^2}{a^2} + \frac{(4-0)^2}{b^2} = 1$$
+
+$$\frac{0}{a^2} + \frac{4^2}{b^2} = 1$$
+
+$$\frac{4^2}{b^2} = 1$$
+
+$$b^2 = 4^2$$
+
+$$\therefore \ b=4$$
+
+ahora tomando la excentricidad:
+
+$$e = \frac{c}{a} = \frac{3}{5}$$
+
+no conocemos c, pero sabemos que $c = \sqrt{a^2-b^2}$
+
+$$e = \frac{ \sqrt{a^2-b^2}}{a} = \frac{3}{5}$$
+
+de lo anterior sabemos que $b=4$, reemplazamos y resolvemos para $a$:
+
+$$\frac{ \sqrt{a^2-4^2}}{a} = \frac{3}{5}$$
+
+$$a^2-4^2 = \frac{3^2}{5^2}a^2$$
+
+$$a^2-4^2 = \frac{9}{25}a^2$$
+
+$$25a^2-400 = 9a^2$$
+
+$$16a^2=400$$
+
+$$a=\sqrt{\frac{400}{16}}$$
+
+$$a=\sqrt{25}$$
+
+$$\therefore \ a=5$$
+
+teniendo los valores de $a$ y $b$ podemos escribir la ecuación buscada:
+
+$$\frac{(x-x_0)^2}{a^2} + \frac{(y-y_0)^2}{b^2} = 1$$
+
+$$\frac{x^2}{5^2} + \frac{y^2}{4^2} = 1$$
+
+$$\frac{x^2}{25} + \frac{y^2}{16} = 1$$
+
+---
+
+</details>
+

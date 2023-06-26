@@ -19,7 +19,7 @@ a) la ecuación canónica para una elipse horizontal es
 
 $$\frac{(x-x_0)^2}{a^2} + \frac{(y-y_0)^2}{b^2} = 1$$
 
-donde el semieje mayor es $a=4$ y semieje mejor $b=2$. Su centro está en el origen por lo que $(x_0, y_0) = (0,0)$. Reemplazando estos valores la ecuación queda:
+donde el semieje mayor es $a=4$ y semieje menor $b=2$. Su centro está en el origen por lo que $(x_0, y_0) = (0,0)$. Reemplazando estos valores la ecuación queda:
 
 $$\frac{(x-0)^2}{4^2} + \frac{(y-0)^2}{2^2} = 1$$
 

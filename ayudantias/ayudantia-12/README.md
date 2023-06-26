@@ -2,6 +2,8 @@
 
 martes 27 junio 2023
 
+![](img/r3.jpg)
+
 ## ejercicio-01
 
 calcule el vértice, el foco, el eje de simetría y la directriz de la parábola $(x+3)^2=4(y+4)$.

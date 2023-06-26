@@ -2,6 +2,8 @@
 
 martes 5 junio 2023
 
+![](img/r1.jpg)
+
 ## ejercicio-01
 
 a) determine la ecuación de la circunferencia que tiene su centro en el punto $(4,2)$ y tiene diámetro $4$.

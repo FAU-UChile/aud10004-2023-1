@@ -2,6 +2,8 @@
 
 martes 13 junio 2023
 
+![](img/r2.jpg)
+
 ## ejercicio-01
 
 a) calcule la ecuación de la elipse horizontal con centro en el origen. semieje mayor 4, semieje menor 2. 

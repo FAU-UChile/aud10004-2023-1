@@ -2,7 +2,7 @@
 
 martes 13 junio 2023
 
-![](img/r2.jpg)
+![](img/r22.jpg)
 
 ## ejercicio-01
 

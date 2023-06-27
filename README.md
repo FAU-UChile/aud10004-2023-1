@@ -43,10 +43,7 @@
 - unidad 5: unidades de medida
   - unidades lineales, cuadradas y cúbicas
   - estrategias de conversión entre unidades
-- unidad 6: funciones y gráficos
-  - funciones lineal y cuadrática
-  - funciones exponencial y logarítmica
-- unidad 7: cónicas y elipses
+- unidad 6: cónicas y elipses
   - definición de cónicas
   - perímetro y área de elipse
   - ecuación de la elipse
@@ -82,11 +79,11 @@ la nota final de la clase será el promedio simple de estas evaluaciones:
 | [08](clases/clase-08/)  | 2023-05-11/12 | unidad 4: computadores y bits               |
 | [09](clases/clase-09/)  | 2023-05-18/19 | unidad 4: computadores y bits               |
 | [10](clases/clase-10/)  | 2023-05-25/26 | unidad 5: unidades de medida                |
-| [11](clases/clase-11/)  | 2023-06-01/02 | unidad 6: funciones y gráficos              |
-| [12](clases/clase-12/)  | 2023-06-08/09 | unidad 6: funciones y gráficos              |
-| [13](clases/clase-13/)  | 2023-06-15/16 | unidad 7: cónicas y elipses                 |
+| [11](clases/clase-11/)  | 2023-06-01/02 | unidad 6: cónicas y elipses                 |
+| [12](clases/clase-12/)  | 2023-06-08/09 | unidad 6: cónicas y elipses                 |
+| [13](clases/clase-13/)  | 2023-06-15/16 | unidad 6: cónicas y elipses                 |
 | semana trabajo autónomo | 2023-06-22/23 | trabajo de investigación                    |
-| [14](clases/clase-14/)  | 2023-06-29/30 | clase final de retroalimentación            |
+| [14](clases/clase-14/)  | 2023-06-29/30 | control 4: unidad 6, clase final de cierre  |
 | cierre acta             | 2023-07-14    | notas finales publicadas                    |
 
 ## ayudantías (martes 8:30am - 10am)
@@ -105,10 +102,10 @@ la nota final de la clase será el promedio simple de estas evaluaciones:
 | [09](ayudantias/ayudantia-09/) | 2023-05-16 | ejercicios unidad 4      |
 | [10](ayudantias/ayudantia-10/) | 2023-05-23 | ejercicios unidad 5      |
 | [11](ayudantias/ayudantia-11/) | 2023-05-30 | control 3: unidades 4, 5 |
-| [12](ayudantias/ayudantia-12/) | 2023-06-06 | ejercicios unidad 6      |
+| [12](ayudantias/ayudantia-12/) | 2023-06-06 | no hay ayudantía         |
 | [13](ayudantias/ayudantia-13/) | 2023-06-13 | ejercicios unidad 6      |
-| [14](ayudantias/ayudantia-14/) | 2023-06-20 | ejercicios unidad 7      |
-| [15](ayudantias/ayudantia-15/) | 2023-06-27 | control 4: unidades 6, 7 |
+| [14](ayudantias/ayudantia-14/) | 2023-06-20 | ejercicios unidad 6      |
+| [15](ayudantias/ayudantia-15/) | 2023-06-27 | ejercicios unidad 6      |
 
 ## bibliografía
 

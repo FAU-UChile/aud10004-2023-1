@@ -16,9 +16,9 @@ grafique.
 ---
 la ecuación es de la forma $(x-h)^2=4p(y-k)$, por lo que representa una parábola que se extiende hacia arriba.
 
-de la ecuación $(x+3)^2=4(y+4)$ se extrae que su vértice está en las coordenadas $(h,k)=(-3,4)$ y su parámetro $p$ es igual a $1$.
+de la ecuación $(x+3)^2=4(y+4)$ se extrae que su vértice está en las coordenadas $(h,k)=(-3,-4)$ y su parámetro $p$ es igual a $1$.
 
-su foco está $p=1$ unidades hacia arriba del vértice, por lo que se ubica en las coordenadas $(-2,4)$.
+su foco está $p=1$ unidades hacia arriba del vértice, por lo que se ubica en las coordenadas $(-3,-3)$.
 
 su eje de simetría es la recta que pasa por el vértice y divide la parábola en dos. Como la parábola se extiende hacia arriba, su eje de simetría es la recta $x=-3$.
 
